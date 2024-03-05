@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 邹立诚
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Licheng Zou
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Licheng
+last_name: Zou
 
 # Status emoji
 status:
@@ -17,34 +17,31 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master student of neuroscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Amsterdam
+    url: https://www.uva.nl/shared-content/programmas/en/masters/biomedical-sciences-neurobiology/study-programme/cognitive-neurobiology-and-clinical-neurophysiology/cognitive-neurobiology-clinical-neurophysiology.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest focus on the application of math to neuroscience, especially in the analysis of spiking neural networks and computational mechanisms of long-term memory and visual encoding.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mean-field Analysis
+  - Synaptic Plasticity
+  - Attractor Network
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Neurobiology
+      institution: University of Amsterdam
+      year: 2023
+    - course: BSc in Mathematics
+      institution: Shanghai Jiao Tong University
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,32 +90,32 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:lichengzou0509@gmail.com"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/zoulicheng
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAV4SaEIWCG47KpBD5pzgJod5gVyFbnMCjY7QV39CMWDqqtF4pWuyt78ixnXSTVcLP4Td-mvHs1zUfBt3N6BcT1j&user=KxgVoa4AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/lichengzou0509
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/licheng-zou-867b91294/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Licheng Zou is now a research intern under supervision of Dr. Alex Roxin in the computational neuroscience group in Centre de Recerca Matematica, Spain. Before that, he onced worked in Chinese Academy of Sciences, Shanghai Jiao Tong University and University of Amsterdam. His research interest mainly focuses on building biologically plausible computational models to understand different brain functions. Currently, he is actively exploring the long-term memory mechanism inside hippocampus and olfactory circuit.
 {style="text-align: justify;"}
