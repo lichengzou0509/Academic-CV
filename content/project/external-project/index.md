@@ -1,5 +1,5 @@
 ---
-title: A distributed neocortical model on decision-making
+title: A distributed neocortical model on decision-making (DM).
 summary: Recent electrophysiology experiments report distributed cortical responses to a random-dot discrimination task, and we built a biologically plausible neocortical model incorporating with different datasets to capture this phenomenon 'article'.
 tags:
   - Demo

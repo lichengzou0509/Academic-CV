@@ -38,10 +38,10 @@ education:
   courses:
     - course: MSc in Neurobiology
       institution: University of Amsterdam
-      year: 2023-present
+      year: 2025
     - course: BSc in Mathematics
       institution: Shanghai Jiao Tong University
-      year: 2019-2023
+      year: 2023
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -60,7 +60,7 @@ skills:
         icon_pack: fas
       - name: Applied Mathematics
         description: ''
-        percent: 80
+        percent: 60
         icon: chart-line
         icon_pack: fas
   - name: Hobbies
@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Licheng Zou is now a research intern under supervision of Dr. Alex Roxin in the computational neuroscience group in Centre de Recerca Matematica, Spain. Before that, he onced worked in Chinese Academy of Sciences, Shanghai Jiao Tong University and University of Amsterdam. His research interest mainly focuses on building biologically plausible computational models to understand different brain functions. Currently, he is actively exploring the synaptic mechanism of long-term memory inside hippocampus and olfactory circuit.
+Licheng Zou is now a research intern under supervision of Dr. Alex Roxin in the computational neuroscience group in Centre de Recerca Matematica, Spain. With a background in mathematics, he cultivated research interest in neuroscience on third year bachelor study and conducted two undergraduate internships in Shanghai and Amsterdam to gain broader insights into brain research. More recently, he is actively exploring the synaptic mechanism of long-term memory inside hippocampus and olfactory circuit.
 {style="text-align: justify;"}
