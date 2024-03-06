@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Licheng Zou is now a research intern under supervision of Dr. Alex Roxin in the computational neuroscience group in Centre de Recerca Matematica, Spain. Before that, he onced worked in Chinese Academy of Sciences, Shanghai Jiao Tong University and University of Amsterdam. His research interest mainly focuses on building biologically plausible computational models to understand different brain functions. Currently, he is actively exploring the long-term memory mechanism inside hippocampus and olfactory circuit.
+Licheng Zou is now a research intern under supervision of Dr. Alex Roxin in the computational neuroscience group in Centre de Recerca Matematica, Spain. Before that, he onced worked in Chinese Academy of Sciences, Shanghai Jiao Tong University and University of Amsterdam. His research interest mainly focuses on building biologically plausible computational models to understand different brain functions. Currently, he is actively exploring the synaptic mechanism of long-term memory inside hippocampus and olfactory circuit.
 {style="text-align: justify;"}

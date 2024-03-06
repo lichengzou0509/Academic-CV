@@ -1,9 +1,10 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Network mechanisms underlying representational drift (RD)
+summary: We tested the hypothesis treating RD as the inevitable consequence of synaptic turnover by fitting a network model to data from long-term chronic calcium imaging experiments in mouse hippocampus. Synaptic turnover in the model
+inputs, consistent with the ongoing encoding of new activity patterns, accounted for the observed statistics of RD.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Spatial memory, synaptic plasticity
+date: '2023-07-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
