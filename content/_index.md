@@ -64,11 +64,11 @@ sections:
       items:
         - title: Research intern
           company: Centre de Recerca Matematica
-          company_url: ''
+          company_url: 'https://www.crm.cat/'
           company_logo: org-gc
           location: Barcelona
           date_start: '2023-07-01'
-          date_end: '2023-09-01'
+          date_end: '2024-09-01'
           description: Research project on representational drift
         - title: Research intern 
           company: University of Amsterdam

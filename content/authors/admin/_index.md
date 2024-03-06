@@ -38,7 +38,7 @@ education:
   courses:
     - course: MSc in Neurobiology
       institution: University of Amsterdam
-      year: 2023-2025
+      year: 2023-present
     - course: BSc in Mathematics
       institution: Shanghai Jiao Tong University
       year: 2019-2023
