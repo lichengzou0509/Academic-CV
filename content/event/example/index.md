@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: What's going on in representational drift?
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Donders Discussion Conference
+event_url: https://theneurotech.eu/donders-discussions-2023-supported-by-neurotecheu/
 
-location: Hugo Blox Builder HQ
+location: City centre of Nijmegen
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  # street: 450 Serra Mall
+  city: Nijmegen
+  # region: CA
+  # postcode: '94305'
+  country: the Netherlands
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: A review talk on representational drift.
+abstract: 'Recent research has illuminated the phenomenon of "representational drift," revealing that neural activity patterns associated with sensation, cognition, and action exhibit dynamic changes over extended periods, spanning days and weeks. This phenomenon has been observed in both rodents and humans, encompassing diverse cortical regions. We’ll highlight recent findings related to representational drift and related computational models that may shed light on its mechanisms. We posit that representational drift is an inevitable consequence of ongoing synaptic plasticity and plays a pivotal role in neural computation. It allows for continuous learning, aiding in the separation and association of memories that occur at distinct temporal intervals. Finally, we will present the outlook for future computational research to advance our understanding of representational drift and its associated circuit models. By delving deeper into this phenomenon, we aim to uncover its broader implications for neuroscience and cognitive science.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2023-10-19'
+date_end: '2023-10-20'
+all_day: True
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-03-06'
 
 authors: []
 tags: []
