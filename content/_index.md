@@ -238,7 +238,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        I believe no one would contact me with this link, in any case, I'd be glad to discuss about science through email with all over the world.
       # Contact (add or remove contact options as necessary)
       email: lichengzou0509<at>gmail<dot>com
       phone: +31(0)616718944
