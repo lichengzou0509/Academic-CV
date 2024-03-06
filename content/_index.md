@@ -79,7 +79,7 @@ sections:
           date_end: '2023-06-30'
           description: Research project on computational decision-making.
         - title: Undergraduate research internship
-          company: Shanghai Jiao Tong University
+          company: Lab of computational neuroscience, Shanghai Jiao Tong University
           company_url: 'https://lcns-sjtu.github.io/'
           company_logo: org-x
           location: Shanghai
