@@ -62,22 +62,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research intern
-          company: Centre de Recerca Matematica
+        - title: Graduate research internship
+          company: Computational Neuroscience Group, Centre de Recerca Matematica
           company_url: 'https://www.crm.cat/'
           company_logo: org-gc
           location: Barcelona
           date_start: '2023-07-01'
           date_end: '2024-09-01'
           description: Research project on representational drift
-        - title: Research intern 
-          company: University of Amsterdam
-          company_url: ''
+        - title: Undergraduate research internship
+          company: Cognitive and Systems Neuroscience Group, University of Amsterdam
+          company_url: 'https://sils.uva.nl/content/research-groups/cognitive-and-systems-neuroscience/cognitive-and-systems-neuroscience.html'
           company_logo: org-x
           location: Amsterdam
           date_start: '2022-09-01'
           date_end: '2023-06-30'
           description: Research project on computational decision-making.
+        - title: Undergraduate research internship
+          company: Shanghai Jiao Tong University
+          company_url: 'https://lcns-sjtu.github.io/'
+          company_logo: org-x
+          location: Shanghai
+          date_start: '2021-11-01'
+          date_end: '2022-06-30'
+          description: Get knowledge of foundation and different research topics in computational neuroscience.
     design:
       columns: '2'
   # - block: accomplishments
