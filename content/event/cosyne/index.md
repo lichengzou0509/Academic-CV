@@ -6,10 +6,9 @@ event_url: https://www.cosyne.org/poster-session-3
 
 location: Lisbon Congress Centre
 address:
-  # street: 450 Serra Mall
   city: Lisbon
-  # region: CA
-  # postcode: '94305'
+  region: Praça das Industrias
+  postcode: '11300-307'
   country: Portugal
 
 summary: A poster presentation on hippocampal representational drift.
