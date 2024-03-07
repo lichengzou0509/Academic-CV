@@ -69,7 +69,7 @@ sections:
           location: Barcelona
           date_start: '2023-07-01'
           date_end: '2024-09-01'
-          description: Research project on representational drift
+          description: Perform the research project on representational drift under supervision of Dr. Alex Roxin.
         - title: Undergraduate research internship
           company: Cognitive and Systems Neuroscience Group, University of Amsterdam
           company_url: 'https://sils.uva.nl/content/research-groups/cognitive-and-systems-neuroscience/cognitive-and-systems-neuroscience.html'
@@ -77,7 +77,7 @@ sections:
           location: Amsterdam
           date_start: '2022-09-01'
           date_end: '2023-06-30'
-          description: Research project on computational decision-making.
+          description: Perform the research project on computational decision-making under supervision of Dr. Jorge Mejias.
         - title: Undergraduate research internship
           company: Lab of computational neuroscience, Shanghai Jiao Tong University
           company_url: 'https://lcns-sjtu.github.io/'
@@ -85,7 +85,7 @@ sections:
           location: Shanghai
           date_start: '2021-11-01'
           date_end: '2022-06-30'
-          description: Get knowledge of foundation and different research topics in computational neuroscience.
+          description: Get knowledge of foundation and different research topics in computational neuroscience under supervision of Dr. Douglas Zhou and Dr. Songting Li.
     design:
       columns: '2'
   # - block: accomplishments
@@ -184,14 +184,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
   - block: collection
     id: featured
     content:
