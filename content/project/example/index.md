@@ -2,7 +2,7 @@
 title: Network mechanisms underlying representational drift (RD)
 summary: We tested the hypothesis treating RD as the inevitable consequence of synaptic turnover by fitting a network model to data from long-term chronic calcium imaging experiments in mouse hippocampus. Synaptic turnover in the model inputs, consistent with the ongoing encoding of new activity patterns, accounted for the observed statistics of RD.
 tags:
-  - Spatial memory
+  - Memory
 date: '2023/07/01-present'
 
 # Optional external URL for project (replaces project detail page).
