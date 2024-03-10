@@ -56,8 +56,8 @@ skills:
       - name: Matlab
         description: ''
         percent: 70
-        icon: matlab
-        icon_pack: fas
+        icon: computer
+        icon_pack: brands
       - name: Applied Mathematics
         description: ''
         percent: 60
