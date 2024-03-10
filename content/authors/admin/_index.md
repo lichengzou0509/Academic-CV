@@ -70,8 +70,8 @@ skills:
       - name: Movies
         description: ''
         percent: 90
-        icon: person-hiking
-        icon_pack: fas
+        icon: film
+        icon_pack: fab
       - name: Fitness
         description: ''
         percent: 70
