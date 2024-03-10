@@ -62,7 +62,7 @@ skills:
         description: ''
         percent: 60
         icon: not-equal
-        icon_pack: fab
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
