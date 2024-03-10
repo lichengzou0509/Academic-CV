@@ -57,7 +57,7 @@ skills:
         description: ''
         percent: 70
         icon: devicon/matlab
-        icon_pack: matlab
+        icon_pack: devicon
       - name: Applied Mathematics
         description: ''
         percent: 60
