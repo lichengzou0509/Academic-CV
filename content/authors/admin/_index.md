@@ -57,7 +57,7 @@ skills:
         description: ''
         percent: 70
         icon: calculator
-        icon_pack: fab
+        icon_pack: fas
       - name: Applied Mathematics
         description: ''
         percent: 60
