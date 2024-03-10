@@ -71,11 +71,11 @@ skills:
         description: ''
         percent: 90
         icon: film
-        icon_pack: fab
+        icon_pack: fas
       - name: Fitness
         description: ''
         percent: 70
-        icon: cat
+        icon: dumbbell
         icon_pack: fas
       - name: Hiking
         description: ''
