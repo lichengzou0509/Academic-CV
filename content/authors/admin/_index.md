@@ -61,7 +61,7 @@ skills:
       - name: Applied Mathematics
         description: ''
         percent: 60
-        icon: function
+        icon: not-equal
         icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
