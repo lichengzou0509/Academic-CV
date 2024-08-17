@@ -1,7 +1,7 @@
 ---
 title: "Representational drift as the consequence of ongoing memory storage"
 authors:
-- Federico Devalle, *Licheng Zou*, Gloria Cecchini and Alex Roxin
+- Federico Devalle, **Licheng Zou**, Gloria Cecchini and Alex Roxin
 date: "2024-06-29T00:00:00Z"
 doi: "https://doi.org/10.1101/2024.06.25.600729"
 
