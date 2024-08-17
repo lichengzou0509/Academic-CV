@@ -117,5 +117,6 @@ social:
 highlight_name: true
 ---
 
-Licheng Zou is now a research intern in the computational neuroscience group in Centre de Recerca Matematica, Spain. With a background in mathematics, he cultivated his research interest in neuroscience on third year bachelor study and then finished two undergraduate internships in Shanghai and Amsterdam for broader horizons on scientific research. More recently, he is actively exploring the computational synaptic mechanism of long-term memory inside hippocampus and olfactory circuit.
+Licheng Zou is now pursuing a neurobiology master degree in the University of Amsterdam. With a background in mathematics, he cultivated his research interest in neuroscience on third year bachelor study and then finished three academic internships in Shanghai, Amsterdam and Barcelona for broader horizons on interdisciplinary research. More recently, he is actively exploring the computational synaptic mechanisms of long-term memory inside hippocampus and olfactory circuits.
+
 {style="text-align: justify;"}
