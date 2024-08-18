@@ -117,6 +117,6 @@ social:
 highlight_name: true
 ---
 
-Licheng Zou is now pursuing a neurobiology master degree in the University of Amsterdam. With a background in mathematics, he cultivated his research interest in neuroscience on third year bachelor study and then finished three academic internships in Shanghai, Amsterdam and Barcelona for broader horizons on interdisciplinary research. More recently, he is actively exploring the computational synaptic mechanisms of long-term memory inside hippocampus and olfactory circuits.
+Licheng Zou is now pursuing a neurobiology master degree at the University of Amsterdam. With a background in mathematics, he cultivated his interest in neuroscience on third year bachelor study and then finished three academic internships in Shanghai, Amsterdam and Barcelonah. More recently, he is actively exploring the computational synaptic mechanisms underlying long-term memory representations inside hippocampus and olfactory circuits.
 
 {style="text-align: justify;"}
