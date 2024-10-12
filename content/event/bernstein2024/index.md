@@ -1,27 +1,28 @@
 ---
 title: Computational mechanisms of representational drift and odor perception in rodent olfactory systems 
 
-event: Barccsyn Poster Session
-event_url: https://www.crm.cat/barccsyn-2024/
+event: Bernstein 2024 Poster Session
+event_url: https://bernstein-network.de/bernstein-conference/
 
-location: Institut d’Estudis Catalans
+location: Goethe University
+
 address:
-  city: Barcelona
-  region: Carrer del Carme
-  postcode: '08001'
-  country: Spain
+  city: Frankfurt
+  region: Nina-Rubinstein-Weg 1
+  postcode: '60323'
+  country: Germany
 
 summary: A poster presentation on olfactory perception and representational drift.
 abstract: 'Olfaction facilitates a large variety of animal behaviors such as feeding, mating, and communication. In the mammal olfactory system, the olfactory bulb (OB) and piriform cortex (PCx) are responsible for preliminary odor encoding and corresponding memory storage respectively. Recent evidence demonstrated the dynamic nature of OB and PCx odor representations upon frequent repetition of the same odors over days, and this phenomenon, termed representational drift, should be the consequence of highly plastic nature of biologically constrained synapses in the olfactory system. In this work, we firstly use a simple feedforward OB-PCx network to fit the long-term behavior of PCx pyramidal neurons and then build up a three-layer olfactory circuit model following physiologically plausible intraand inter- areal axonal projection rules, which is capable of odor perception separation, and memory encoding. We seek to computationally identify different roles of OB, PCx and OBPCx interaction in the olfactory pathway, reproduce a series of electrophysiology findings and explore the inevitable emergence of representational drift in such a model configuration.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-30'
-date_end: '2024-05-31'
+date: '2024-09-29'
+date_end: '2024-10-03'
 all_day: True
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-05-31'
+publishDate: '2024-09-30'
 
 authors: []
 tags: []
@@ -37,7 +38,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://x.com/BARCCSYN
+    url: https://x.com/BernsteinNeuro
 url_code: ''
 url_pdf: ''
 url_slides: ''
