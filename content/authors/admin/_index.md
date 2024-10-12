@@ -36,10 +36,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Neurobiology
+    - course: Master of Neurobiology
       institution: University of Amsterdam
       year: 2025
-    - course: BSc in Mathematics
+    - course: Bachelor of Mathematics
       institution: Shanghai Jiao Tong University
       year: 2023
 
