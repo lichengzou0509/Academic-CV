@@ -77,7 +77,7 @@ sections:
           location: Amsterdam
           date_start: '2022-09-01'
           date_end: '2023-06-30'
-          description: Funded by the generous Zhiyuan overseas internship funding, I performed the research project on distributed models underlying perceptual decision-making under supervision of Dr. Jorge Mejias. And my bachelor thesis was produced as part of the output of this internship.
+          description: Funded by the generous Zhiyuan overseas internship scholarship, I performed the research project on distributed models underlying perceptual decision-making under supervision of Dr. Jorge Mejias. And my bachelor thesis was produced as part of the output of this internship.
         - title: Undergraduate research internship
           company: Lab of computational neuroscience, Shanghai Jiao Tong University
           company_url: 'https://lcns-sjtu.github.io/'
