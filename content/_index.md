@@ -85,7 +85,7 @@ sections:
           location: Shanghai
           date_start: '2021-11-01'
           date_end: '2022-06-30'
-          description: Thanks for Dr. Douglas Zhou's admission, I joined his lab co-directed by Dr. Songting Li and started my journey into computational neuroscience (CNS). During this internship, I got knowledge of foundation and different research topics in CNS, and presented interested papers during weekly journal clubs. In the meantime, I attended two CNS winter schools hosted by the same institution and one online conference.
+          description: Thanks for Dr. Douglas Zhou's admission, I joined his lab co-directed by Dr. Songting Li and started my journey into computational neuroscience (CNS). During this internship, I got knowledge of foundation and different research topics in CNS, and presented interested literatures during weekly journal clubs. In the meantime, I attended two CNS winter schools hosted by the same institution and one online conference.
     design:
       columns: '2'
   # - block: accomplishments
