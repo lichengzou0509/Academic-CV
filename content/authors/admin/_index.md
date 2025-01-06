@@ -25,7 +25,7 @@ organizations:
     url: https://www.uva.nl/shared-content/programmas/en/masters/biomedical-sciences-neurobiology/study-programme/cognitive-neurobiology-and-clinical-neurophysiology/cognitive-neurobiology-clinical-neurophysiology.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest focus on the application of math to neuroscience, especially in the analysis of spiking neural networks and computational mechanisms of long-term memory and visual encoding.
+bio: My research interest focus on the application of mathematics and theoretical physices to neuroscience, especially in the analysis of neuronal networks and the computational mechanisms of long-term memory and visual encoding.
 
 # Interests to show in About widget
 interests:
@@ -117,6 +117,6 @@ social:
 highlight_name: true
 ---
 
-I'm now pursuing a neurobiology master degree at the University of Amsterdam. With a background in mathematics, I gradually turned to computational neuroscience research from the third year bachelor study. More recently, I'm actively exploring the computational synaptic mechanisms underlying long-term memory representations inside hippocampus and olfactory circuits.
+I'm now pursuing a neurobiology master degree at the University of Amsterdam. With a background in mathematics, I gradually turned to computational neuroscience research at my third year bachelor study. More recently, I've been exploring the circuit-level synaptic mechanisms underlying long-term neural representations of hippocampus and olfactory circuits.
 
 {style="text-align: justify;"}

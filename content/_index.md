@@ -69,7 +69,7 @@ sections:
           location: Barcelona
           date_start: '2023-07-01'
           date_end: '2024-09-01'
-          description: Perform the research project on representational drift under supervision of Dr. Alex Roxin.
+          description: Funded by the Erasmus+ internship scholarship, I performed two research projects on representational drift under supervision of Dr. Alex Roxin. In the meantime, I actively participated in the academic events taking place within the Great Barcelona neuroscience community, including one conference and two workshops.
         - title: Undergraduate research internship
           company: Cognitive and Systems Neuroscience Group, University of Amsterdam
           company_url: 'https://sils.uva.nl/content/research-groups/cognitive-and-systems-neuroscience/cognitive-and-systems-neuroscience.html'
@@ -77,7 +77,7 @@ sections:
           location: Amsterdam
           date_start: '2022-09-01'
           date_end: '2023-06-30'
-          description: Perform the research project on computational decision-making under supervision of Dr. Jorge Mejias.
+          description: Funded by the generous Zhiyuan overseas internship funding, I performed the research project on distributed models underlying perceptual decision-making under supervision of Dr. Jorge Mejias. And my bachelor thesis was produced as part of the output of this internship.
         - title: Undergraduate research internship
           company: Lab of computational neuroscience, Shanghai Jiao Tong University
           company_url: 'https://lcns-sjtu.github.io/'
@@ -85,7 +85,7 @@ sections:
           location: Shanghai
           date_start: '2021-11-01'
           date_end: '2022-06-30'
-          description: Get knowledge of foundation and different research topics in computational neuroscience under supervision of Dr. Douglas Zhou and Dr. Songting Li.
+          description: Thanks for Dr. Douglas Zhou's admission, I joined his lab co-directed by Dr. Songting Li and started my journey into computational neuroscience (CNS). During this internship, I got knowledge of foundation and different research topics in CNS, and presented interested papers during weekly journal clubs. In the meantime, I attended two CNS winter schools hosted by the same institution and one online conference.
     design:
       columns: '2'
   # - block: accomplishments
