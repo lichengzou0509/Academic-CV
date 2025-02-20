@@ -18,7 +18,7 @@ abstract: 'Despite the traditional view of parietal cortex as an important regio
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-02-18'
-date_end: '2024-02-2921'
+date_end: '2025-02-21'
 all_day: True
 
 # Schedule page publish date (NOT talk date).
