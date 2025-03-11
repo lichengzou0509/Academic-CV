@@ -117,6 +117,6 @@ social:
 highlight_name: true
 ---
 
-Hi, welcome to my personal website! I'm Licheng Zou, currently pursuing a neurobiology master degree at the University of Amsterdam. With a background in mathematics, my research interest focuses on computational neuroscience. Since 2023, I've been exploring the synaptic mechanisms underlying long-term neural representations of hippocampus and olfactory circuits. More recently, I've turned to visual cortex and seek to understand visual neuron dynamics through multi-scale computational approaches. Starting from September 2025, I'll become a PhD candidate at Gottingen Campus Institute for Biological Networks/ Max-Planck Institute for Dynamics and Self-organization under supervision of Prof. Fred Wolf. 
+Hi, welcome to my personal website! I'm Licheng Zou, currently pursuing a neurobiology master's degree at the University of Amsterdam. With a background in mathematics, my research interest focuses on computational neuroscience. Since 2023, I've been exploring the synaptic mechanisms underlying long-term neural representations of hippocampus and olfactory circuits. More recently, I've turned to visual cortex and seek to understand visual neuron dynamics through multi-scale computational approaches. Starting from September 2025, I'll become a PhD candidate at Gottingen Campus Institute for Biological Networks/ Max-Planck Institute for Dynamics and Self-organization under supervision of Prof. Fred Wolf. 
 
 {style="text-align: justify;"}
