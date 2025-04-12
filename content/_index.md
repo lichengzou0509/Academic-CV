@@ -178,6 +178,8 @@ sections:
           tag: Memory
         - name: Cognition
           tag: Demo
+        - name: V1 simulation
+          tag: V1
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
