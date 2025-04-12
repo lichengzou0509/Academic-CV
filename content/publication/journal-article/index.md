@@ -1,16 +1,19 @@
 <!-- ---
-title: "An example journal article"
+title: "Synaptic plasticity facilitates oscillations in a V1 cortical column model with multiple
+interneuron types"
 authors:
-- admin
-- Robert Ford
+- Giulia Morenia
+- Licheng Zou
+- Cyriel Pennartz
+- Jorge Mejias
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2025-04-91T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-04-09T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +21,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Frontiers in Computational Neuroscience, 19*(1568143)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Neural rhythms are ubiquitous in cortical recordings, but it is unclear whether they emerge due to the basic structure of cortical microcircuits, or depend on function. Using detailed electrophysiological and anatomical data of mouse V1, we explored this question by building a spiking network model of a cortical column incorporating pyramidal cells, PV, SST and VIP inhibitory interneurons, and dynamics for AMPA, GABA and NMDA receptors. The resulting model matched in vivo cell-type-specific firing rates for spontaneous and stimulus-evoked conditions in mice, although rhythmic activity was absent. Upon introduction of long-term synaptic plasticity in the form of an STDP rule, broad-band (15-60 Hz) oscillations emerged, with feedforward/feedback input streams enhancing/suppressing the oscillatory drive, respectively. These plasticity-triggered rhythms relied on all cell types, and specific experience-dependent connectivity patterns were required to generate oscillations. Our results suggest that neural rhythms are not necessarily intrinsic properties of cortical circuits, but rather they may arise from structural changes elicited by learning-related mechanisms.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We present here a computational model of a cortical column circuit, and explore the conditions upon which oscillations may emerge in this system -revealing that synaptic plasticity plays an important role in the process.
 
 tags:
 - Source Themes
@@ -33,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2025.1568143/abstract
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
