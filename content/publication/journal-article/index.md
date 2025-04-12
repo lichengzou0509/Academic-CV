@@ -1,4 +1,4 @@
--- ---
+---
 title: "Synaptic plasticity facilitates oscillations in a V1 cortical column model with multiple
 interneuron types"
 authors:
