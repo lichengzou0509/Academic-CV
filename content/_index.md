@@ -62,6 +62,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Graduate research internship (hybrid)
+          company: University of Amsterdam, University of Chicago, German Primate Center
+          company_url: 'https://www.dpz.eu/en'
+          company_logo: org-gc
+          location: Amsterdam, Goettingen
+          date_start: '2024-09-01'
+          date_end: '2025-06-01'
+          description: An interdisciplinary collaboration across continents, aiming at investigating the neural mechanisms underlying macaque perceptual decision-making via pulvinar-cortex interactions. My role is to build up a bi-hemisphere thalamocortical circuit model to reproduce the collected neuronal spiking data under different scenarios -- control, lesion, and micro-stimulation.
         - title: Graduate research internship
           company: Computational Neuroscience Group, Centre de Recerca Matematica
           company_url: 'https://www.crm.cat/'
