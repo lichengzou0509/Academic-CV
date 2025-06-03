@@ -117,6 +117,6 @@ social:
 highlight_name: true
 ---
 
-Hi, welcome to my personal website! I'm Licheng Zou, currently a visiting scientist at NYU Shanghai. Trained in applied mathematics and biomedical sciences, my academic career focuses on computational neuroscience. Since 2024, I've been investigating the primary visual cortex and aiming at understand visual neuron dynamics through multi-scale computational approaches. Starting from September 2025, I'll being a PhD candidate at Gottingen Campus Institute for Biological Networks/ Max-Planck Institute for Dynamics and Self-organization under supervision of Prof. Fred Wolf. 
+Hi, welcome to my personal website! I'm Licheng Zou, currently a visiting scientist at NYU Shanghai. Trained in applied mathematics and biomedical sciences, my academic career focuses on computational neuroscience. Since 2024, I've been investigating the primary visual cortex and aiming at understand visual neuron dynamics through multi-scale computational approaches. Starting from September 2025, I'll work as a PhD candidate at Gottingen Campus Institute for Biological Networks/ Max-Planck Institute for Dynamics and Self-organization under supervision of Prof. Fred Wolf. 
 
 {style="text-align: justify;"}
