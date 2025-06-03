@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master student of neuroscience
+role: Visiting Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Amsterdam
-    url: https://www.uva.nl/shared-content/programmas/en/masters/biomedical-sciences-neurobiology/study-programme/cognitive-neurobiology-and-clinical-neurophysiology/cognitive-neurobiology-clinical-neurophysiology.html
+  - name: NYU Shanghai
+    url: https://shanghai.nyu.edu/content/neural-science
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest focus on the application of mathematics and theoretical physices to neuroscience, especially in the analysis of neuronal networks and the computational mechanisms of long-term memory and visual encoding.
