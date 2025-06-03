@@ -62,10 +62,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Visiting scientist (summer)
+          company: NYU Shanghai
+          company_url: 'https://shanghai.nyu.edu/content/neural-science'
+          company_logo: NYU_Shanghai_logo
+          location: Shanghai
+          date_start: '2025-06-01'
+          date_end: '2025-09-01'
+          description: Together with Dr. Zhuocheng Xiao, we investigate the network mechanisms underlying the emergence of V1 functional receptive fields through large-scale simulations and multi-scale analysis.
         - title: Graduate research internship (hybrid)
           company: University of Amsterdam, University of Chicago, German Primate Center
           company_url: 'https://www.dpz.eu/en'
-          company_logo: org-gc
+          company_logo: Chicago_logo
           location: Amsterdam, Goettingen
           date_start: '2024-09-01'
           date_end: '2025-06-01'
@@ -73,7 +81,7 @@ sections:
         - title: Graduate research internship
           company: Computational Neuroscience Group, Centre de Recerca Matematica
           company_url: 'https://www.crm.cat/'
-          company_logo: org-gc
+          company_logo: CRM_logo
           location: Barcelona
           date_start: '2023-07-01'
           date_end: '2024-09-01'
@@ -81,7 +89,7 @@ sections:
         - title: Undergraduate research internship
           company: Cognitive and Systems Neuroscience Group, University of Amsterdam
           company_url: 'https://sils.uva.nl/content/research-groups/cognitive-and-systems-neuroscience/cognitive-and-systems-neuroscience.html'
-          company_logo: org-x
+          company_logo: UVA_logo
           location: Amsterdam
           date_start: '2022-09-01'
           date_end: '2023-06-30'
