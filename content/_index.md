@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Visiting scientist (summer)
-          company: NYU Shanghai
+          company: Department of Neural Science, NYU Shanghai
           company_url: 'https://shanghai.nyu.edu/content/neural-science'
           company_logo: NYU_Shanghai_logo
           location: Shanghai
@@ -97,7 +97,7 @@ sections:
         - title: Undergraduate research internship
           company: Lab of computational neuroscience, Shanghai Jiao Tong University
           company_url: 'https://lcns-sjtu.github.io/'
-          company_logo: org-x
+          company_logo: SJTU_logo
           location: Shanghai
           date_start: '2021-11-01'
           date_end: '2022-06-30'
