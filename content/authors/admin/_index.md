@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Visiting Scientist
+role: Doctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: NYU Shanghai
-    url: https://shanghai.nyu.edu/content/neural-science
+  - name: Göttingen Campus Institut für Dynamik biologischer Netzwerke
+    url: https://uni-goettingen.de/de/608362.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest focus on the application of mathematics and theoretical physices to neuroscience, especially in the analysis of neuronal networks and the computational mechanisms of long-term memory and visual encoding.
@@ -36,6 +36,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Doctor of Philosophy
+      institution: Georg August University of Göttingen
+      year: 2028
     - course: Master in Neurobiology
       institution: University of Amsterdam
       year: 2025
@@ -117,6 +120,6 @@ social:
 highlight_name: true
 ---
 
-Hi, welcome! I'm Licheng Zou, currently a PhD student at Gottingen Campus Institute for Biological Networks/ Max-Planck Institute for Dynamics and Self-organization, receiving supervision from Prof. Dr. Fred. Wolf. Trained in applied mathematics and biomedical sciences, my academic career focuses on computational neuroscience. Since 2024, I've been investigating the primary visual cortex and aiming at understand visual neuron dynamics through multi-scale computational approaches.
+Hi, welcome! I'm Licheng Zou, currently a PhD student at Gottingen Campus Institute for Biological Networks/ Max-Planck Institute for Dynamics and Self-organization, receiving supervision from Prof. Dr. Fred Wolf. Trained in applied mathematics and biomedical sciences, my academic career focuses on computational neuroscience. Since 2024, I've been investigating the primary visual cortex and aiming at understand visual neuron dynamics through multi-scale computational approaches.
 
 {style="text-align: justify;"}
