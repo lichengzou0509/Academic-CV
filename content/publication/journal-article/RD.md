@@ -5,7 +5,9 @@ authors:
 - Licheng Zou
 - Gloria Cecchini
 - Alex Roxin
-
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2025-07-301T00:00:00Z"
 doi: "https://doi.org/10.1038/s41598-025-11102-x"
 
