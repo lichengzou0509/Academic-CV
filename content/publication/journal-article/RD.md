@@ -31,7 +31,7 @@ summary: We present here a computational model of the hippocampal circuit, and e
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
