@@ -6,8 +6,8 @@ authors:
 - Gloria Cecchini
 - Alex Roxin
 
-date: "2025-07-301T00:00:00Z"
-doi: ""
+date: "2025-07-30T00:00:00Z"
+doi: "https://doi.org/10.1038/s41598-025-11102-x"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-07-30T00:00:00Z"
