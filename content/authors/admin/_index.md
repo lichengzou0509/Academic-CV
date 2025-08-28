@@ -120,6 +120,6 @@ social:
 highlight_name: true
 ---
 
-Hi, welcome! I'm Licheng Zou, currently a PhD student at Gottingen Campus Institute for Biological Networks/ Max-Planck Institute for Dynamics and Self-organization, receiving supervision from Prof. Dr. Fred Wolf. Trained in applied mathematics and biomedical sciences, my academic career focuses on computational neuroscience. Since 2024, I've been investigating the primary visual cortex and aiming at understand visual neuron dynamics through multi-scale computational approaches.
+Hi, welcome! I'm Licheng Zou, currently a PhD student at Göttingen Campus Institute for Biological Networks/ Max-Planck Institute for Dynamics and Self-organization, receiving supervision from Prof. Dr. Fred Wolf. Trained in applied mathematics and biomedical sciences, my academic career focuses on computational neuroscience. Since 2024, I've been investigating the primary visual cortex and aiming at understand visual neuron dynamics through multi-scale computational approaches.
 
 {style="text-align: justify;"}
