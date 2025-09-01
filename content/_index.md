@@ -62,15 +62,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Visiting scientist (summer)
+        - title: Visiting Scientist (summer)
           company: Department of Neural Science, NYU Shanghai
           company_url: 'https://shanghai.nyu.edu/content/neural-science'
           company_logo: NYU_Shanghai_logo
           location: Shanghai
           date_start: '2025-06-01'
-          date_end: '2025-09-01'
+          date_end: '2025-08-25'
           description: Together with Dr. Zhuocheng Xiao, we investigate the network mechanisms underlying the emergence of V1 functional receptive fields through large-scale simulations and multi-scale analysis.
-        - title: Graduate research internship (hybrid)
+        - title: Graduate Research Internship (hybrid)
           company: University of Amsterdam, University of Chicago, German Primate Center
           company_url: 'https://www.dpz.eu/en'
           company_logo: Chicago_logo
@@ -78,7 +78,7 @@ sections:
           date_start: '2024-09-01'
           date_end: '2025-06-01'
           description: An interdisciplinary collaboration across continents, aiming at investigating the neural mechanisms underlying macaque perceptual decision-making via pulvinar-cortex interactions. My role is to build up a bi-hemisphere thalamocortical circuit model to reproduce the collected neuronal spiking data under different scenarios -- control, lesion, and micro-stimulation.
-        - title: Graduate research internship
+        - title: Graduate Research Internship
           company: Computational Neuroscience Group, Centre de Recerca Matematica
           company_url: 'https://www.crm.cat/'
           company_logo: CRM_logo
@@ -86,7 +86,7 @@ sections:
           date_start: '2023-07-01'
           date_end: '2024-09-01'
           description: Funded by the Erasmus+ internship scholarship, I performed two research projects on representational drift under supervision of Dr. Alex Roxin. In the meantime, I actively participated in the academic events taking place within the Great Barcelona neuroscience community, including one conference and two workshops.
-        - title: Undergraduate research internship
+        - title: Undergraduate Research Internship
           company: Cognitive and Systems Neuroscience Group, University of Amsterdam
           company_url: 'https://sils.uva.nl/content/research-groups/cognitive-and-systems-neuroscience/cognitive-and-systems-neuroscience.html'
           company_logo: UVA_logo
@@ -94,7 +94,7 @@ sections:
           date_start: '2022-09-01'
           date_end: '2023-06-30'
           description: Funded by the generous Zhiyuan overseas internship scholarship, I performed the research project on distributed models underlying perceptual decision-making under supervision of Dr. Jorge Mejias. And my bachelor thesis was produced as part of the output of this internship.
-        - title: Undergraduate research internship
+        - title: Undergraduate Research Internship
           company: Lab of computational neuroscience, Shanghai Jiao Tong University
           company_url: 'https://lcns-sjtu.github.io/'
           company_logo: SJTU_logo
@@ -261,20 +261,20 @@ sections:
       email: lichengzou0509@gmail.com
       phone: +31(0)616718944
       address:
-        street: 450 Serra Mall
-        city: Barcelona
-        region: Bellaterra
-        postcode: '08193'
-        country: Spain
-        country_code: Sp
-      directions: Second floor in Edifici C, Campus UAB.
+        street: Wilhelmsplatz 1 (Aula)
+        city: Göttingen
+        region: Georg-August-Universität Göttingen
+        postcode: '37073'
+        country: Germany
+        country_code: DE
+      directions: Rroom 1.108, HDW 12
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '41.5003207'
-        longitude: '2.1088798'  
+        latitude: '51.5421951'
+        longitude: '9.9389258'  
       contact_links:
         - icon: twitter
           icon_pack: fab

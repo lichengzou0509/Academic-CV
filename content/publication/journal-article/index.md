@@ -7,8 +7,7 @@ authors:
 - Cyriel Pennartz
 - Jorge Mejias
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+
 date: "2025-04-91T00:00:00Z"
 doi: ""
 
