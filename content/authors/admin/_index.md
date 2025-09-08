@@ -31,7 +31,10 @@ bio: My research interest focus on the application of mathematics and theoretica
 interests:
   - Mean-field Analysis
   - Synaptic Plasticity
-  - Attractor Network
+  - Memory Attractor
+  - Evolutionary optimization
+  - Turing Instability
+  - Large-scale Simulation
 
 # Education to show in About widget
 education:

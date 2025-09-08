@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Frontiers in Computational Neuroscience, 19*(1568143)"
-publication_short: ""
+publication_short: "Front. Comp. Neuro"
 
 abstract: Neural rhythms are ubiquitous in cortical recordings, but it is unclear whether they emerge due to the basic structure of cortical microcircuits, or depend on function. Using detailed electrophysiological and anatomical data of mouse V1, we explored this question by building a spiking network model of a cortical column incorporating pyramidal cells, PV, SST and VIP inhibitory interneurons, and dynamics for AMPA, GABA and NMDA receptors. The resulting model matched in vivo cell-type-specific firing rates for spontaneous and stimulus-evoked conditions in mice, although rhythmic activity was absent. Upon introduction of long-term synaptic plasticity in the form of an STDP rule, broad-band (15-60 Hz) oscillations emerged, with feedforward/feedback input streams enhancing/suppressing the oscillatory drive, respectively. These plasticity-triggered rhythms relied on all cell types, and specific experience-dependent connectivity patterns were required to generate oscillations. Our results suggest that neural rhythms are not necessarily intrinsic properties of cortical circuits, but rather they may arise from structural changes elicited by learning-related mechanisms.
 
