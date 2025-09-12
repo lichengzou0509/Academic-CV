@@ -32,7 +32,7 @@ interests:
   - Mean-field Analysis
   - Synaptic Plasticity
   - Memory Attractor
-  - Evolutionary optimization
+  - Evolutionary Optimization
   - Turing Instability
   - Large-scale Simulation
 
@@ -42,10 +42,10 @@ education:
     - course: Doctor of Philosophy
       institution: Georg August University of Göttingen
       year: 2028
-    - course: Master in Neurobiology
+    - course: Master of Neurobiology
       institution: University of Amsterdam
       year: 2025
-    - course: Bachelor in Mathematics
+    - course: Bachelor of Mathematics
       institution: Shanghai Jiao Tong University
       year: 2023
 
