@@ -39,13 +39,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Doctor of Philosophy
+    - course: PhD in Theoretical Neurophysics
       institution: Georg August University of Göttingen
       year: 2028
-    - course: Master of Neurobiology
+    - course: MSc in Neurobiology
       institution: University of Amsterdam
       year: 2025
-    - course: Bachelor of Mathematics
+    - course: BSc in Mathematics
       institution: Shanghai Jiao Tong University
       year: 2023
 
