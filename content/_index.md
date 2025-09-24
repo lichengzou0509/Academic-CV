@@ -250,6 +250,17 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      subtitle: ''
+      text: |-
+        - **2023** · TA · SJTU CNS Winter School  
+        - **2025** · Tutor · Block seminar: *Introduction to Theoretical Neuroscience*
+    design:
+      columns: '1'
+
   - block: contact
     id: contact
     content:
