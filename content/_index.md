@@ -256,11 +256,21 @@ sections:
       title: Teaching
       subtitle: ''
       text: |-
-        - **2023** · TA · SJTU CNS Winter School  
-        - **2025** · Tutor · Block seminar: *Introduction to Theoretical Neuroscience*
+        <div class="grid grid-cols-4 gap-4">
+
+        <div class="font-bold">2023</div>
+        <div>
+          TA · <a href="https://ins.sjtu.edu.cn/conferences/2252" target="_blank">SJTU CNS Winter School</a>
+        </div>
+
+        <div class="font-bold">2025</div>
+        <div>
+          Tutor · <a href="https://www.studip.uni-goettingen.de/extern.php?module=Lecturedetails&range_id=f01cb6ad89f913e65369bf4078cb36f3&seminar_id=2d15940331a6390b6659c380ee0375dd" target="_blank">Block seminar: Introduction to Theoretical Neuroscience</a>
+        </div>
+
+        </div>
     design:
       columns: '1'
-
   - block: contact
     id: contact
     content:
