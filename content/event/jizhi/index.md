@@ -13,7 +13,7 @@ abstract: '灵长类动物的初级视皮层（primary visual cortex，V1） 拥
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-09-27'
-date_end: '2025-09-27'
+date_end: '2025-09-28'
 all_day: True
 
 # Schedule page publish date (NOT talk date).
