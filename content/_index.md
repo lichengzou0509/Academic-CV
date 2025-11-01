@@ -66,10 +66,19 @@ sections:
               Tutor · <a href="https://www.studip.uni-goettingen.de/extern.php?module=Lecturedetails&range_id=f01cb6ad89f913e65369bf4078cb36f3&seminar_id=2d15940331a6390b6659c380ee0375dd" target="_blank" class="text-blue-600 hover:underline">Block seminar: Introduction to Theoretical Neuroscience</a>, Göttingen
             </li>
             <li>
-              Lecturer · <a href="https://pattern.swarma.org/study_group/69" target="_blank" class="text-blue-600 hover:underline">集智俱乐部计算神经科学读书会第三季</a>
+              Sep 27th · Invited talk at <a href="https://pattern.swarma.org/study_group/69" target="_blank" class="text-blue-600 hover:underline">集智俱乐部计算神经科学读书会第三季</a>
             </li>
             <li>
-              Attendee · CNeuro 2025, Shanghai
+              Sep 17th - 19th · Participant at <a href="https://www.uni-goettingen.de/de/698439.html" target="_blank" class="text-blue-600 hover:underline">Annual retreat: SPP 2205 "Evolutionary Optimization of Neuronal Processing"</a>, Zeitz, Germany
+            </li>
+            <li>
+              Sep 1st · I officially started as a doctoral researcher at <a href="https://uni-goettingen.de/en/684822.html" target="_blank" class="text-blue-600 hover:underline">Wolf Group, CIDBN</a>. The preliminary thesis title is 'Dynamic Transformations in Cortical Circuits'
+            </li>
+            <li>
+              Aug 16th - 23rd · Participant at <a href="https://www.cneuro.net/cneuro2025" target="_blank" class="text-blue-600 hover:underline">CNeuro 2025</a>, Institute of Neuroscience, Shanghai
+            </li>
+            <li>
+              July 30th · <strong>Publication Alert!</strong> Paper <a href="https://www.nature.com/articles/s41598-025-11102-x" target="_blank" class="text-blue-600 hover:underline">'Representational drift as the consequence of ongoing memory storage'</a> has been published at Nature Scientific Reports.
             </li>
           </ul>
         </div>
