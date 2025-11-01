@@ -62,6 +62,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Doctoral Researcher
+          company: Physics of Biological Systems, Max Planck Institute
+          company_url: 'https://uni-goettingen.de/en/684822.html'
+          company_logo: NYU_Shanghai_logo
+          location: Göttingen
+          date_start: '2025-08-25'
+          date_end: '2028-08-25'
+          description: I'm honored to conduct doctoral studies at the Max Planck Institute for Dynamics and Self-organizations, where my training program is the International Max Planck Research School "Physics of Biological and Complex Systems". Under the supervision from Prof. Dr. Fred Wolf, my thesis focuses on 'Dynamic Transformations in Cortical Circuits'.
         - title: Visiting Scientist (summer)
           company: Department of Neural Science, NYU Shanghai
           company_url: 'https://shanghai.nyu.edu/content/neural-science'
