@@ -63,22 +63,25 @@ sections:
           <div class="text-lg font-semibold text-gray-800">2025</div>
           <ul class="list-disc list-inside text-gray-700">
             <li>
-              Tutor · <a href="https://www.studip.uni-goettingen.de/extern.php?module=Lecturedetails&range_id=f01cb6ad89f913e65369bf4078cb36f3&seminar_id=2d15940331a6390b6659c380ee0375dd" target="_blank" class="text-blue-600 hover:underline">Block seminar: Introduction to Theoretical Neuroscience</a>, Göttingen
+              Sep 27th · Invited talk at <a href="https://pattern.swarma.org/study_group/69" target="_blank" class="text-blue-600 hover:underline">集智俱乐部计算神经科学读书会第三季</a>.
             </li>
             <li>
-              Sep 27th · Invited talk at <a href="https://pattern.swarma.org/study_group/69" target="_blank" class="text-blue-600 hover:underline">集智俱乐部计算神经科学读书会第三季</a>
+              Sep 17th - 19th · Participant at <a href="https://www.uni-goettingen.de/de/698439.html" target="_blank" class="text-blue-600 hover:underline">Annual retreat: SPP 2205 "Evolutionary Optimization of Neuronal Processing"</a>, Zeitz, Germany.
             </li>
             <li>
-              Sep 17th - 19th · Participant at <a href="https://www.uni-goettingen.de/de/698439.html" target="_blank" class="text-blue-600 hover:underline">Annual retreat: SPP 2205 "Evolutionary Optimization of Neuronal Processing"</a>, Zeitz, Germany
+              Sep 1st · I officially started as a doctoral researcher at <a href="https://uni-goettingen.de/en/684822.html" target="_blank" class="text-blue-600 hover:underline">Wolf Group, CIDBN</a>. The preliminary thesis title is 'Dynamic Transformations in Cortical Circuits'.
             </li>
             <li>
-              Sep 1st · I officially started as a doctoral researcher at <a href="https://uni-goettingen.de/en/684822.html" target="_blank" class="text-blue-600 hover:underline">Wolf Group, CIDBN</a>. The preliminary thesis title is 'Dynamic Transformations in Cortical Circuits'
+              Aug 16th - 23rd · Participant at <a href="https://www.cneuro.net/cneuro2025" target="_blank" class="text-blue-600 hover:underline">CNeuro 2025</a>, Institute of Neuroscience, Shanghai.
             </li>
             <li>
-              Aug 16th - 23rd · Participant at <a href="https://www.cneuro.net/cneuro2025" target="_blank" class="text-blue-600 hover:underline">CNeuro 2025</a>, Institute of Neuroscience, Shanghai
+              July 30th · <strong>Publication Alert!</strong> Paper <a href="https://www.nature.com/articles/s41598-025-11102-x" target="_blank" class="text-blue-600 hover:underline">'Representational drift as the consequence of ongoing memory storage'</a>, with Alex Roxin, has been published at Nature Scientific Reports.
             </li>
             <li>
-              July 30th · <strong>Publication Alert!</strong> Paper <a href="https://www.nature.com/articles/s41598-025-11102-x" target="_blank" class="text-blue-600 hover:underline">'Representational drift as the consequence of ongoing memory storage'</a> has been published at Nature Scientific Reports.
+              July 4th · Opening talk at <a href="https://peppered-rudbeckia-37d.notion.site/Xiao-Lab-AI-NS-Amath-JC_summer-2025-215949af911a80f39ea3ee03630d2704" target="_blank" class="text-blue-600 hover:underline">AI-NS-Amath Journal Club</a>, NYU Shanghai.
+            </li>
+            <li>
+              June 3rd · Graduation from the Masters' program <a href="https://www.uva.nl/shared-content/programmas/en/masters/biomedical-sciences-neurobiology/study-programme/cognitive-neurobiology-and-clinical-neurophysiology/cognitive-neurobiology-clinical-neurophysiology.html" target="_blank" class="text-blue-600 hover:underline">Cognitive Neurobiology & Clinical Neurophysiology</a>. A summation of my master's can be found <a href="https://www.linkedin.com/feed/update/urn:li:activity:7335638258304888834/" target="_blank" class="text-blue-600 hover:underline">here</a>.
             </li>
           </ul>
         </div>
