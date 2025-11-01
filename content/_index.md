@@ -63,28 +63,28 @@ sections:
           <div class="text-lg font-semibold text-gray-800">2025</div>
           <ul class="list-disc list-inside text-gray-700">
             <li>
-              Sep 27th · Invited talk at <a href="https://pattern.swarma.org/study_group/69" target="_blank" class="text-blue-600 hover:underline">集智俱乐部计算神经科学读书会第三季</a>.
+              Sep 27 · Invited talk at <a href="https://pattern.swarma.org/study_group/69" target="_blank" class="text-blue-600 hover:underline">集智俱乐部计算神经科学读书会第三季</a>.
             </li>
             <li>
-              Sep 17th - 19th · Participant at <a href="https://www.uni-goettingen.de/de/698439.html" target="_blank" class="text-blue-600 hover:underline">Annual retreat: SPP 2205 "Evolutionary Optimization of Neuronal Processing"</a>, Zeitz, Germany.
+              Sep 17 - 19 · Participant at <a href="https://www.uni-goettingen.de/de/698439.html" target="_blank" class="text-blue-600 hover:underline">Annual retreat: SPP 2205 "Evolutionary Optimization of Neuronal Processing"</a>, Zeitz, Germany.
             </li>
             <li>
-              Sep 1st · <strong>Career Update!</strong> I officially started as a doctoral researcher at <a href="https://uni-goettingen.de/en/684822.html" target="_blank" class="text-blue-600 hover:underline">Wolf Group, CIDBN</a>. The preliminary thesis title is 'Dynamic Transformations in Cortical Circuits'.
+              Sep 1 · <strong>Career Update!</strong> I officially started as a doctoral researcher at <a href="https://uni-goettingen.de/en/684822.html" target="_blank" class="text-blue-600 hover:underline">Wolf Group, CIDBN</a>. The preliminary thesis title is 'Dynamic Transformations in Cortical Circuits'.
             </li>
             <li>
-              Aug 16th - 23rd · Participant at <a href="https://www.cneuro.net/cneuro2025" target="_blank" class="text-blue-600 hover:underline">CNeuro 2025</a>, Institute of Neuroscience, Shanghai.
+              Aug 16 - 23 · Participant at <a href="https://www.cneuro.net/cneuro2025" target="_blank" class="text-blue-600 hover:underline">CNeuro 2025</a>, Institute of Neuroscience, Shanghai.
             </li>
             <li>
-              July 30th · <strong>Publication Alert!</strong> Paper <a href="https://www.nature.com/articles/s41598-025-11102-x" target="_blank" class="text-blue-600 hover:underline">'Representational drift as the consequence of ongoing memory storage'</a>, with Alex Roxin, has been published at Nature Scientific Reports.
+              July 30 · <strong>Publication Alert!</strong> Paper <a href="https://www.nature.com/articles/s41598-025-11102-x" target="_blank" class="text-blue-600 hover:underline">'Representational drift as the consequence of ongoing memory storage'</a>, with Alex Roxin, has been published at Nature Scientific Reports.
             </li>
             <li>
-              July 4th · Opening talk at <a href="https://peppered-rudbeckia-37d.notion.site/Xiao-Lab-AI-NS-Amath-JC_summer-2025-215949af911a80f39ea3ee03630d2704" target="_blank" class="text-blue-600 hover:underline">AI-NS-Amath Journal Club</a>, NYU Shanghai.
+              July 4 · Opening talk at <a href="https://peppered-rudbeckia-37d.notion.site/Xiao-Lab-AI-NS-Amath-JC_summer-2025-215949af911a80f39ea3ee03630d2704" target="_blank" class="text-blue-600 hover:underline">AI-NS-Amath Journal Club</a>, NYU Shanghai.
             </li>
             <li>
-              June 3rd · <strong>Career Update!</strong> I officially graduated from the Masters' program <a href="https://www.uva.nl/shared-content/programmas/en/masters/biomedical-sciences-neurobiology/study-programme/cognitive-neurobiology-and-clinical-neurophysiology/cognitive-neurobiology-clinical-neurophysiology.html" target="_blank" class="text-blue-600 hover:underline">Cognitive Neurobiology & Clinical Neurophysiology</a>. A summation of my master's can be found <a href="https://www.linkedin.com/feed/update/urn:li:activity:7335638258304888834/" target="_blank" class="text-blue-600 hover:underline">here</a>.
+              June 3 · <strong>Career Update!</strong> I officially graduated from the Masters' program <a href="https://www.uva.nl/shared-content/programmas/en/masters/biomedical-sciences-neurobiology/study-programme/cognitive-neurobiology-and-clinical-neurophysiology/cognitive-neurobiology-clinical-neurophysiology.html" target="_blank" class="text-blue-600 hover:underline">Cognitive Neurobiology & Clinical Neurophysiology</a>. A summation of my master's can be found <a href="https://www.linkedin.com/feed/update/urn:li:activity:7335638258304888834/" target="_blank" class="text-blue-600 hover:underline">here</a>.
             </li>
             <li>
-              April 30th · <strong>Publication Alert!</strong> Paper <a href="https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2025.1568143/full" target="_blank" class="text-blue-600 hover:underline">'Synaptic plasticity facilitates oscillations in a V1 cortical column model with multiple interneuron types'</a>, with Jorge Mejias, has been published at Frontiers in Computational Neuroscience.
+              April 30 · <strong>Publication Alert!</strong> Paper <a href="https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2025.1568143/full" target="_blank" class="text-blue-600 hover:underline">'Synaptic plasticity facilitates oscillations in a V1 cortical column model with multiple interneuron types'</a>, with Jorge Mejias, has been published at Frontiers in Computational Neuroscience.
             </li>
           </ul>
         </div>
@@ -94,24 +94,11 @@ sections:
           <div class="text-lg font-semibold text-gray-800">2024</div>
           <ul class="list-disc list-inside text-gray-700">
             <li>
-              Poster · Bernstein Conference 2024, Frankfurt
+              Sep 29 - Oct 2 · Poster 'Computational mechanisms of representational drift and odor perception in rodent olfactory systems, with Alex Roxin, at ' <a href="https://bernstein-network.de/bernstein-conference/past-future-bernstein-conferences/bernstein-conference-2024/" target="_blank" class="text-blue-600 hover:underline">Bernstein Conference 2024</a>.
             </li>
             <li>
-              Poster · Barccsyn 2024, Barcelona
+              June 23 - July 14 · Participant at <a href="https://www.csh-asia.org/?content/2382" target="_blank" class="text-blue-600 hover:underline">Computational and Cognitive Neuroscience (CCN) summer school 2025</a>, Suzhou.
             </li>
-            <li>
-              Poster · Cosyne 2024, Lisbon
-            </li>
-            <li>
-              Participant · Cold Spring Harbor Asia Summer Course <em>“Computational and Cognitive Neuroscience”</em>, Suzhou
-            </li>
-            <li>
-              Participant · EBRAINS Brain Simulation Workshop, Bilbao
-            </li>
-            <li>
-              Participant · BCN Workshop <em>“From EEG and related potentials to connectivity and source modeling”</em>, Barcelona
-            </li>
-          </ul>
         </div>
 
         <!-- ===== 2023 ===== -->
