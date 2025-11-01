@@ -50,6 +50,81 @@ sections:
       username: admin
     design:
       columns: '1'
+  - block: markdown
+    id: news
+    content:
+      title: News
+      subtitle: 'Selected Teaching, Talks & Workshops'
+      text: |-
+        <div class="space-y-4">
+
+        <!-- ===== 2025 ===== -->
+        <div class="flex flex-col space-y-1">
+          <div class="text-lg font-semibold text-gray-800">2025</div>
+          <ul class="list-disc list-inside text-gray-700">
+            <li>
+              Tutor · <a href="https://www.studip.uni-goettingen.de/extern.php?module=Lecturedetails&range_id=f01cb6ad89f913e65369bf4078cb36f3&seminar_id=2d15940331a6390b6659c380ee0375dd" target="_blank" class="text-blue-600 hover:underline">Block seminar: Introduction to Theoretical Neuroscience</a>, Göttingen
+            </li>
+            <li>
+              Lecturer · <a href="https://pattern.swarma.org/study_group/69" target="_blank" class="text-blue-600 hover:underline">集智俱乐部计算神经科学读书会第三季</a>
+            </li>
+            <li>
+              Attendee · CNeuro 2025, Shanghai
+            </li>
+          </ul>
+        </div>
+
+        <!-- ===== 2024 ===== -->
+        <div class="flex flex-col space-y-1">
+          <div class="text-lg font-semibold text-gray-800">2024</div>
+          <ul class="list-disc list-inside text-gray-700">
+            <li>
+              Poster · Bernstein Conference 2024, Frankfurt
+            </li>
+            <li>
+              Poster · Barccsyn 2024, Barcelona
+            </li>
+            <li>
+              Poster · Cosyne 2024, Lisbon
+            </li>
+            <li>
+              Participant · Cold Spring Harbor Asia Summer Course <em>“Computational and Cognitive Neuroscience”</em>, Suzhou
+            </li>
+            <li>
+              Participant · EBRAINS Brain Simulation Workshop, Bilbao
+            </li>
+            <li>
+              Participant · BCN Workshop <em>“From EEG and related potentials to connectivity and source modeling”</em>, Barcelona
+            </li>
+          </ul>
+        </div>
+
+        <!-- ===== 2023 ===== -->
+        <div class="flex flex-col space-y-1">
+          <div class="text-lg font-semibold text-gray-800">2023</div>
+          <ul class="list-disc list-inside text-gray-700">
+            <li>
+              Speaker · Donders Discussion 2023, Nijmegen
+            </li>
+            <li>
+              TA · <a href="https://ins.sjtu.edu.cn/conferences/2252" target="_blank" class="text-blue-600 hover:underline">SJTU CNS Winter School</a>, Shanghai
+            </li>
+          </ul>
+        </div>
+
+        <!-- ===== 2022 ===== -->
+        <div class="flex flex-col space-y-1">
+          <div class="text-lg font-semibold text-gray-800">2022</div>
+          <ul class="list-disc list-inside text-gray-700">
+            <li>
+              Participant · SJTU Computational Neuroscience Winter School, Shanghai
+            </li>
+          </ul>
+        </div>
+
+        </div>
+    design:
+      columns: '1'
   - block: experience
     content:
       title: Experience
