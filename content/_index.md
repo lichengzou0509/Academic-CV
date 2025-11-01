@@ -63,9 +63,9 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Doctoral Researcher
-          company: Physics of Biological Systems, Max Planck Institute
+          company: Dynamics of Biological Networks, Max Planck Institute
           company_url: 'https://uni-goettingen.de/en/684822.html'
-          company_logo: NYU_Shanghai_logo
+          company_logo: max-planck-gesellschaft
           location: Göttingen
           date_start: '2025-08-25'
           date_end: '2028-08-25'
