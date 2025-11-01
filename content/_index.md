@@ -83,6 +83,9 @@ sections:
             <li>
               June 3rd · <strong>Career Update!</strong> I officially graduated from the Masters' program <a href="https://www.uva.nl/shared-content/programmas/en/masters/biomedical-sciences-neurobiology/study-programme/cognitive-neurobiology-and-clinical-neurophysiology/cognitive-neurobiology-clinical-neurophysiology.html" target="_blank" class="text-blue-600 hover:underline">Cognitive Neurobiology & Clinical Neurophysiology</a>. A summation of my master's can be found <a href="https://www.linkedin.com/feed/update/urn:li:activity:7335638258304888834/" target="_blank" class="text-blue-600 hover:underline">here</a>.
             </li>
+            <li>
+              April 30th · <strong>Publication Alert!</strong> Paper <a href="https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2025.1568143/full" target="_blank" class="text-blue-600 hover:underline">'Synaptic plasticity facilitates oscillations in a V1 cortical column model with multiple interneuron types'</a>, with Jorge Mejias, has been published at Frontiers in Computational Neuroscience.
+            </li>
           </ul>
         </div>
 
