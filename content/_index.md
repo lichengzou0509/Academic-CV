@@ -75,7 +75,7 @@ sections:
               Aug 16 - 23 · Participant at <a href="https://www.cneuro.net/cneuro2025" target="_blank" class="text-blue-600 hover:underline">CNeuro 2025</a>, Institute of Neuroscience, Shanghai.
             </li>
             <li>
-              July 30 · <strong>Publication Alert!</strong> Paper <a href="https://www.nature.com/articles/s41598-025-11102-x" target="_blank" class="text-blue-600 hover:underline">'Representational drift as the consequence of ongoing memory storage'</a>, with Alex Roxin, has been published at Nature Scientific Reports.
+              July 30 · <strong>Publication Alert!</strong> Paper <a href="https://www.nature.com/articles/s41598-025-11102-x" target="_blank" class="text-blue-600 hover:underline">'Representational drift as the consequence of ongoing memory storage'</a>, with Alex Roxin, has been published at <em>Nature Scientific Reports</em>.
             </li>
             <li>
               July 4 · Opening talk at <a href="https://peppered-rudbeckia-37d.notion.site/Xiao-Lab-AI-NS-Amath-JC_summer-2025-215949af911a80f39ea3ee03630d2704" target="_blank" class="text-blue-600 hover:underline">AI-NS-Amath Journal Club</a>, NYU Shanghai.
@@ -84,7 +84,7 @@ sections:
               June 3 · <strong>Career Update!</strong> I officially graduated from the Masters' program <a href="https://www.uva.nl/shared-content/programmas/en/masters/biomedical-sciences-neurobiology/study-programme/cognitive-neurobiology-and-clinical-neurophysiology/cognitive-neurobiology-clinical-neurophysiology.html" target="_blank" class="text-blue-600 hover:underline">Cognitive Neurobiology & Clinical Neurophysiology</a>. A summation of my master's can be found <a href="https://www.linkedin.com/feed/update/urn:li:activity:7335638258304888834/" target="_blank" class="text-blue-600 hover:underline">here</a>.
             </li>
             <li>
-              April 30 · <strong>Publication Alert!</strong> Paper <a href="https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2025.1568143/full" target="_blank" class="text-blue-600 hover:underline">'Synaptic plasticity facilitates oscillations in a V1 cortical column model with multiple interneuron types'</a>, with Jorge Mejias, has been published at Frontiers in Computational Neuroscience.
+              April 30 · <strong>Publication Alert!</strong> Paper <a href="https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2025.1568143/full" target="_blank" class="text-blue-600 hover:underline">'Synaptic plasticity facilitates oscillations in a V1 cortical column model with multiple interneuron types'</a>, with Jorge Mejias, has been published at <em>Frontiers in Computational Neuroscience</em>.
             </li>
           </ul>
         </div>
