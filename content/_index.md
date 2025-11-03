@@ -97,7 +97,10 @@ sections:
               Sep 29 - Oct 2 · Poster 'Computational mechanisms of representational drift and odor perception in rodent olfactory systems', with Alex Roxin, ' <a href="https://bernstein-network.de/bernstein-conference/past-future-bernstein-conferences/bernstein-conference-2024/" target="_blank" class="text-blue-600 hover:underline">Bernstein Conference 2024</a>, Frankfurt.
             </li>
             <li>
-              June 23 - July 14 · Participant at <a href="https://www.csh-asia.org/?content/2382" target="_blank" class="text-blue-600 hover:underline">Computational and Cognitive Neuroscience (CCN) summer school 2025</a>, Suzhou.
+              June 23 - July 14 · Participant at <a href="https://www.ebrains.eu/news-and-events/ebrains-brain-simulation-workshop-2024" target="_blank" class="text-blue-600 hover:underline">EBRAINS Brain Simulation Workshop 2024</a>, Bilbao.
+            </li>
+            <li>
+              June 3 - July 7 · Participant at <a href="https://www.csh-asia.org/?content/2382" target="_blank" class="text-blue-600 hover:underline">Computational and Cognitive Neuroscience (CCN) summer school 2025</a>, Suzhou.
             </li>
             <li>
               May 30 - 31 · Poster 'Computational mechanisms of representational drift and odor perception in rodent olfactory systems', with Alex Roxin, ' <a href="https://www.crm.cat/barccsyn-2024/" target="_blank" class="text-blue-600 hover:underline">Barccsyn 2024</a>, Spain.
@@ -109,10 +112,10 @@ sections:
           <div class="text-lg font-semibold text-gray-800">2023</div>
           <ul class="list-disc list-inside text-gray-700">
             <li>
-              Speaker · Donders Discussion 2023, Nijmegen
+              Oct 19 - 20 · Contributed talk at <a href="https://theneurotech.eu/join-donders-discussions-2023-supported-neurotecheu" target="_blank" class="text-blue-600 hover:underline">Donders Discussions</a>, Nijmegen
             </li>
             <li>
-              TA · <a href="https://ins.sjtu.edu.cn/conferences/2252" target="_blank" class="text-blue-600 hover:underline">SJTU CNS Winter School</a>, Shanghai
+              Sep 1 · <strong>Career Update!</strong> I officially started my master's studies at the University of Amsterdam.
             </li>
           </ul>
         </div>
