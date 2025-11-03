@@ -120,16 +120,6 @@ sections:
           </ul>
         </div>
 
-        <!-- ===== 2022 ===== -->
-        <div class="flex flex-col space-y-1">
-          <div class="text-lg font-semibold text-gray-800">2022</div>
-          <ul class="list-disc list-inside text-gray-700">
-            <li>
-              Participant · SJTU Computational Neuroscience Winter School, Shanghai
-            </li>
-          </ul>
-        </div>
-
         </div>
     design:
       columns: '1'
