@@ -118,7 +118,7 @@ sections:
               Sep 1 · <strong>Career Update!</strong> I officially started my master's studies at the University of Amsterdam.
             </li>
             <li>
-              Jun 30 · <strong>Career Update!</strong> I officially graduated with my Bachelor's degree in Mathematics from Shanghai Jiao Tong University, Zhiyuan Honors Undergraduate Program. I wanted to thank my dual supervisors, <a href="http://ins.sjtu.edu.cn/people/zdz" target="_blank" class="text-blue-600 hover:underline">Douglas Zhou</a> and <a href="https://ins.sjtu.edu.cn/people/songtingli/" target="_blank" class="text-blue-600 hover:underline">Songting Li</a>, for introducing me into the amazing computational neuroscience.
+              Jun 30 · <strong>Career Update!</strong> I officially graduated with my Bachelor's degree in Mathematics from Shanghai Jiao Tong University, <a href="https://zhiyuan.sjtu.edu.cn/html/zhiyuan/" target="_blank" class="text-blue-600 hover:underline">Zhiyuan Honors Undergraduate Program</a. I wanted to thank my dual supervisors, <a href="http://ins.sjtu.edu.cn/people/zdz" target="_blank" class="text-blue-600 hover:underline">Douglas Zhou</a> and <a href="https://ins.sjtu.edu.cn/people/songtingli/" target="_blank" class="text-blue-600 hover:underline">Songting Li</a>, for introducing me into the amazing computational neuroscience.
             </li>
           </ul>
         </div>
