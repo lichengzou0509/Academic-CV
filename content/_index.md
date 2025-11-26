@@ -75,7 +75,7 @@ sections:
               Aug 16 - 23 · Participant at <a href="https://www.cneuro.net/cneuro2025" target="_blank" class="text-blue-600 hover:underline">CNeuro 2025</a>, Institute of Neuroscience, Shanghai.
             </li>
             <li>
-              July 30 · <strong>Publication Alert!</strong> Paper <a href="https://www.nature.com/articles/s41598-025-11102-x" target="_blank" class="text-blue-600 hover:underline">'Representational drift as the consequence of ongoing memory storage'</a>, with Alex Roxin, has been published at <em>Nature Scientific Reports</em>.
+              July 30 · <strong>Publication Alert!</strong> Paper <a href="https://www.nature.com/articles/s41598-025-11102-x" target="_blank" class="text-blue-600 hover:underline">'Representational drift as the consequence of ongoing memory storage'</a>, with <a href="https://sites.google.com/site/alexanderroxin/home" target="_blank" class="text-blue-600 hover:underline">Alex Roxin</a>, has been published at <em>Nature Scientific Reports</em>.
             </li>
             <li>
               July 4 · Opening talk at <a href="https://peppered-rudbeckia-37d.notion.site/Xiao-Lab-AI-NS-Amath-JC_summer-2025-215949af911a80f39ea3ee03630d2704" target="_blank" class="text-blue-600 hover:underline">AI-NS-Amath Journal Club</a>, NYU Shanghai.
@@ -84,7 +84,7 @@ sections:
               June 3 · <strong>Career Update!</strong> I officially graduated from the master's program <a href="https://www.uva.nl/shared-content/programmas/en/masters/biomedical-sciences-neurobiology/study-programme/cognitive-neurobiology-and-clinical-neurophysiology/cognitive-neurobiology-clinical-neurophysiology.html" target="_blank" class="text-blue-600 hover:underline">Cognitive Neurobiology & Clinical Neurophysiology</a>. A summary of my master's can be found <a href="https://www.linkedin.com/feed/update/urn:li:activity:7335638258304888834/" target="_blank" class="text-blue-600 hover:underline">here</a>.
             </li>
             <li>
-              April 30 · <strong>Publication Alert!</strong> Paper <a href="https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2025.1568143/full" target="_blank" class="text-blue-600 hover:underline">'Synaptic plasticity facilitates oscillations in a V1 cortical column model with multiple interneuron types'</a>, with Jorge Mejias, has been published at <em>Frontiers in Computational Neuroscience</em>.
+              April 30 · <strong>Publication Alert!</strong> Paper <a href="https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2025.1568143/full" target="_blank" class="text-blue-600 hover:underline">'Synaptic plasticity facilitates oscillations in a V1 cortical column model with multiple interneuron types'</a>, with <a href="https://sils.uva.nl/profile/m/e/j.f.mejias/j.f.mejias.html" target="_blank" class="text-blue-600 hover:underline">Jorge Mejias</a>, has been published at <em>Frontiers in Computational Neuroscience</em>.
             </li>
           </ul>
         </div>
@@ -94,7 +94,7 @@ sections:
           <div class="text-lg font-semibold text-gray-800">2024</div>
           <ul class="list-disc list-inside text-gray-700">
             <li>
-              Sep 29 - Oct 2 · Poster 'Computational mechanisms of representational drift and odor perception in rodent olfactory systems', with Alex Roxin, ' <a href="https://bernstein-network.de/bernstein-conference/past-future-bernstein-conferences/bernstein-conference-2024/" target="_blank" class="text-blue-600 hover:underline">Bernstein Conference 2024</a>, Frankfurt.
+              Sep 29 - Oct 2 · Poster 'Computational mechanisms of representational drift and odor perception in rodent olfactory systems', with <a href="https://sites.google.com/site/alexanderroxin/home" target="_blank" class="text-blue-600 hover:underline">Alex Roxin</a>, ' <a href="https://bernstein-network.de/bernstein-conference/past-future-bernstein-conferences/bernstein-conference-2024/" target="_blank" class="text-blue-600 hover:underline">Bernstein Conference 2024</a>, Frankfurt.
             </li>
             <li>
               June 23 - July 14 · Participant at <a href="https://www.ebrains.eu/news-and-events/ebrains-brain-simulation-workshop-2024" target="_blank" class="text-blue-600 hover:underline">EBRAINS Brain Simulation Workshop 2024</a>, Bilbao.
@@ -103,7 +103,7 @@ sections:
               June 3 - July 7 · Participant at <a href="https://www.csh-asia.org/?content/2382" target="_blank" class="text-blue-600 hover:underline">Computational and Cognitive Neuroscience (CCN) summer school 2025</a>, Suzhou.
             </li>
             <li>
-              May 30 - 31 · Poster 'Computational mechanisms of representational drift and odor perception in rodent olfactory systems', with Alex Roxin, ' <a href="https://www.crm.cat/barccsyn-2024/" target="_blank" class="text-blue-600 hover:underline">Barccsyn 2024</a>, Spain.
+              May 30 - 31 · Poster 'Computational mechanisms of representational drift and odor perception in rodent olfactory systems', with <a href="https://sites.google.com/site/alexanderroxin/home" target="_blank" class="text-blue-600 hover:underline">Alex Roxin</a>, ' <a href="https://www.crm.cat/barccsyn-2024/" target="_blank" class="text-blue-600 hover:underline">Barccsyn 2024</a>, Spain.
             </li>
         </div>
 
