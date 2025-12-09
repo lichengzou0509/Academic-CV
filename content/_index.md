@@ -63,6 +63,9 @@ sections:
           <div class="text-lg font-semibold text-gray-800">2025</div>
           <ul class="list-disc list-inside text-gray-700">
             <li>
+              Dec 9 · 5 mins Blitz talk and Poster 'Large-Scale Long-term Circuit Optimization Predicts Focal Areas High Speed Tuning Drift in V1', with <a href="https://www.uni-goettingen.de/en/617266.html" target="_blank" class="text-blue-600 hover:underline">Fred Wolf</a>, ' <a href="https://www.crm.cat/barccsyn-2024/" target="_blank" class="text-blue-600 hover:underline">The 5th Göttingen Neural Networking Day</a>, Göttingen, Germany.
+            </li>
+            <li>
               Sep 27 · Invited talk at <a href="https://pattern.swarma.org/study_group/69" target="_blank" class="text-blue-600 hover:underline">集智俱乐部计算神经科学读书会第三季</a>.
             </li>
             <li>
