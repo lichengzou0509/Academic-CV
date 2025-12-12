@@ -124,14 +124,14 @@ sections:
               <li>Sep 29 - Oct 2 · Poster 'Computational mechanisms of representational drift and odor perception in rodent olfactory systems', with <a href="https://sites.google.com/site/alexanderroxin/home" target="_blank" class="text-blue-600 hover:underline">Alex Roxin</a>, <a href="https://bernstein-network.de/bernstein-conference/past-future-bernstein-conferences/bernstein-conference-2024/" target="_blank" class="text-blue-600 hover:underline">Bernstein Conference 2024</a>, Frankfurt, Germany.</li>
               <li>June 23 - July 14 · Participant at <a href="https://www.ebrains.eu/news-and-events/ebrains-brain-simulation-workshop-2024" target="_blank" class="text-blue-600 hover:underline">EBRAINS Brain Simulation Workshop 2024</a>, Bilbao, Spain</li>
               <li>June 3 - July 7 · Participant at <a href="https://www.csh-asia.org/?content/2382" target="_blank" class="text-blue-600 hover:underline">Computational and Cognitive Neuroscience (CCN) summer school 2025</a>, Suzhou, China</li>
-              <li>May 30 - 31 · Poster 'Computational mechanisms of representational drift and odor perception in rodent olfactory systems', with <a href="https://sites.google.com/site/alexanderroxin/home" target="_blank" class="text-blue-600 hover:underline">Alex Roxin</a>, <a href="https://www.crm.cat/barccsyn-2024/" target="_blank" class="text-blue-600 hover:underline">Barccsyn 2024</a>, Barcelona Spain.</li>
+              <li>May 30 - 31 · Poster 'Computational mechanisms of representational drift and odor perception in rodent olfactory systems', with <a href="https://sites.google.com/site/alexanderroxin/home" target="_blank" class="text-blue-600 hover:underline">Alex Roxin</a>, <a href="https://www.crm.cat/barccsyn-2024/" target="_blank" class="text-blue-600 hover:underline">Barccsyn 2024</a>, Barcelona, Spain.</li>
             </ul>
           </div>
 
           <!-- ===== 2023 ===== -->
           <div class="year-content content2023">
             <ul class="list-disc list-inside text-gray-700 space-y-2">
-              <li>Oct 19 - 20 · Contributed talk at <a href="https://theneurotech.eu/join-donders-discussions-2023-supported-neurotecheu" target="_blank" class="text-blue-600 hover:underline">Donders Discussions</a>, Nijmegen, The Netherlands</li>
+              <li>Oct 19 - 20 · Contributed talk at <a href="https://theneurotech.eu/join-donders-discussions-2023-supported-neurotecheu" target="_blank" class="text-blue-600 hover:underline">Donders Discussions 2023</a>, Nijmegen, The Netherlands</li>
               <li>Sep 1 · <strong>Career Update!</strong> I officially started my master's studies at the University of Amsterdam.</li>
               <li>Jun 30 · <strong>Career Update!</strong> I officially graduated with my Bachelor's degree in Mathematics from Shanghai Jiao Tong University, <a href="https://zhiyuan.sjtu.edu.cn/html/zhiyuan/" target="_blank" class="text-blue-600 hover:underline">Zhiyuan Honors Undergraduate Program</a>. I wanted to thank my dual supervisors, <a href="http://ins.sjtu.edu.cn/people/zdz" target="_blank" class="text-blue-600 hover:underline">Douglas Zhou</a> and <a href="https://ins.sjtu.edu.cn/people/songtingli/" target="_blank" class="text-blue-600 hover:underline">Songting Li</a>, for introducing me into the amazing computational neuroscience.</li>
             </ul>
