@@ -105,15 +105,15 @@ sections:
           <!-- ===== 2025 ===== -->
           <div class="year-content content2025">
             <ul class="list-disc list-inside text-gray-700 space-y-2">
-              <li>Dec 9 · 5 mins Blitz talk and Poster ...</li>
-              <li>Sep 27 · Invited talk at ...</li>
-              <li>Sep 17 - 19 · Participant at ...</li>
-              <li>Sep 1 · <strong>Career Update!</strong> Started as doctoral researcher ...</li>
-              <li>Aug 16 - 23 · Participant at CNeuro 2025 ...</li>
-              <li>July 30 · <strong>Publication Alert!</strong> Paper 'Representational drift ...'</li>
-              <li>July 4 · Opening talk at AI-NS-Amath Journal Club ...</li>
-              <li>June 3 · <strong>Career Update!</strong> Graduated from master's program ...</li>
-              <li>April 30 · <strong>Publication Alert!</strong> Paper 'Synaptic plasticity ...'</li>
+              <li>Dec 9 · 5 mins Blitz talk and Poster 'Large-Scale Long-term Circuit Optimization Predicts Focal Areas High Speed Tuning Drift in V1', with <a href="https://www.uni-goettingen.de/en/617266.html" target="_blank" class="text-blue-600 hover:underline">Fred Wolf</a>, <a href="https://events.gwdg.de/event/1257/" target="_blank" class="text-blue-600 hover:underline">The 5th Göttingen Neural Networking Day</a>, Göttingen, Germany.</li>
+              <li>Sep 27 · Invited talk at <a href="https://pattern.swarma.org/study_group/69" target="_blank" class="text-blue-600 hover:underline">集智俱乐部计算神经科学读书会第三季</a>.</li>
+              <li>Sep 17 - 19 · Participant at <a href="https://www.uni-goettingen.de/de/698439.html" target="_blank" class="text-blue-600 hover:underline">Annual retreat: SPP 2205 "Evolutionary Optimization of Neuronal Processing"</a>, Zeitz, Germany.</li>
+              <li>Sep 1 · <strong>Career Update!</strong> I officially started as a doctoral researcher at <a href="https://uni-goettingen.de/en/684822.html" target="_blank" class="text-blue-600 hover:underline">Wolf Group, CIDBN</a>. The preliminary thesis title is 'Dynamic Transformations in Cortical Circuits'.</li>
+              <li>Aug 16 - 23 · Participant at <a href="https://www.cneuro.net/cneuro2025" target="_blank" class="text-blue-600 hover:underline">CNeuro 2025</a>, Institute of Neuroscience, Shanghai.</li>
+              <li>July 30 · <strong>Publication Alert!</strong> Paper <a href="https://www.nature.com/articles/s41598-025-11102-x" target="_blank" class="text-blue-600 hover:underline">'Representational drift as the consequence of ongoing memory storage'</a>, with <a href="https://sites.google.com/site/alexanderroxin/home" target="_blank" class="text-blue-600 hover:underline">Alex Roxin</a>, has been published at <em>Nature Scientific Reports</em>.</li>
+              <li>July 4 · Opening talk at <a href="https://peppered-rudbeckia-37d.notion.site/Xiao-Lab-AI-NS-Amath-JC_summer-2025-215949af911a80f39ea3ee03630d2704" target="_blank" class="text-blue-600 hover:underline">AI-NS-Amath Journal Club</a>, NYU Shanghai.</li>
+              <li>June 3 · <strong>Career Update!</strong> I officially graduated from the master's program <a href="https://www.uva.nl/shared-content/programmas/en/masters/biomedical-sciences-neurobiology/study-programme/cognitive-neurobiology-and-clinical-neurophysiology/cognitive-neurobiology-clinical-neurophysiology.html" target="_blank" class="text-blue-600 hover:underline">Cognitive Neurobiology & Clinical Neurophysiology</a>. A summary of my master's can be found <a href="https://www.linkedin.com/feed/update/urn:li:activity:7335638258304888834/" target="_blank" class="text-blue-600 hover:underline">here</a>.</li>
+              <li>April 30 · <strong>Publication Alert!</strong> Paper <a href="https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2025.1568143/full" target="_blank" class="text-blue-600 hover:underline">'Synaptic plasticity facilitates oscillations in a V1 cortical column model with multiple interneuron types'</a>, with <a href="https://sils.uva.nl/profile/m/e/j.f.mejias/j.f.mejias.html" target="_blank" class="text-blue-600 hover:underline">Jorge Mejias</a>, has been published at <em>Frontiers in Computational Neuroscience</em>.</li>
             </ul>
           </div>
 
