@@ -64,7 +64,8 @@ sections:
 
         <!-- ===== 2025 ===== -->
         <div id="year-2025" class="year-block">
-          <li>
+          <ul class="list-disc list-inside text-gray-700 space-y-2">
+            <li>
               Dec 9 · 5 mins Blitz talk and Poster 'Large-Scale Long-term Circuit Optimization Predicts Focal Areas High Speed Tuning Drift in V1', with <a href="https://www.uni-goettingen.de/en/617266.html" target="_blank" class="text-blue-600 hover:underline">Fred Wolf</a>, <a href="https://events.gwdg.de/event/1257/" target="_blank" class="text-blue-600 hover:underline">The 5th Göttingen Neural Networking Day</a>, Göttingen, Germany.
             </li>
             <li>
@@ -127,7 +128,6 @@ sections:
             </li>
           </ul>
         </div>
-
 
         <script type="text/javascript">
           document.addEventListener("DOMContentLoaded", () => {
