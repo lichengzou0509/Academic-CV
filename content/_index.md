@@ -56,14 +56,40 @@ sections:
       title: News
       subtitle: 'Publications & Talks & Conferences'
       text: |-
-        <div class="flex space-x-3 mb-6">
-          <button class="year-btn px-4 py-2 rounded-lg bg-blue-600 text-white font-medium" data-year="2025">2025</button>
-          <button class="year-btn px-4 py-2 rounded-lg bg-gray-200 text-gray-700 hover:bg-gray-300 font-medium" data-year="2024">2024</button>
-          <button class="year-btn px-4 py-2 rounded-lg bg-gray-200 text-gray-700 hover:bg-gray-300 font-medium" data-year="2023">2023</button>
+        <style>
+          .year-tab input { display:none; }
+          .year-tab label {
+            padding: 0.5rem 1rem;
+            cursor: pointer;
+            border-radius: 0.5rem;
+            background-color: #E5E7EB; /* gray-200 */
+            color: #374151; /* gray-700 */
+          }
+          .year-tab input:checked + label {
+            background-color: #2563EB; /* blue-600 */
+            color: white;
+          }
+          .year-content { display: none; margin-top: 1rem; }
+          #tab2025:checked ~ .content2025,
+          #tab2024:checked ~ .content2024,
+          #tab2023:checked ~ .content2023 {
+            display: block;
+          }
+        </style>
+
+        <div class="year-tab flex space-x-3 mb-6">
+          <input type="radio" id="tab2025" name="years" checked>
+          <label for="tab2025">2025</label>
+
+          <input type="radio" id="tab2024" name="years">
+          <label for="tab2024">2024</label>
+
+          <input type="radio" id="tab2023" name="years">
+          <label for="tab2023">2023</label>
         </div>
 
         <!-- ===== 2025 ===== -->
-        <div id="year-2025" class="year-block">
+        <div class="year-content content2025">
           <ul class="list-disc list-inside text-gray-700 space-y-2">
             <li>
               Dec 9 · 5 mins Blitz talk and Poster 'Large-Scale Long-term Circuit Optimization Predicts Focal Areas High Speed Tuning Drift in V1', with <a href="https://www.uni-goettingen.de/en/617266.html" target="_blank" class="text-blue-600 hover:underline">Fred Wolf</a>, <a href="https://events.gwdg.de/event/1257/" target="_blank" class="text-blue-600 hover:underline">The 5th Göttingen Neural Networking Day</a>, Göttingen, Germany.
@@ -96,8 +122,7 @@ sections:
         </div>
 
         <!-- ===== 2024 ===== -->
-        <div id="year-2024" class="year-block hidden">
-          <div class="text-lg font-semibold text-gray-800 mb-2">2024</div>
+        <div class="year-content content2024">
           <ul class="list-disc list-inside text-gray-700 space-y-2">
             <li>
               Sep 29 - Oct 2 · Poster 'Computational mechanisms of representational drift and odor perception in rodent olfactory systems', with <a href="https://sites.google.com/site/alexanderroxin/home" target="_blank" class="text-blue-600 hover:underline">Alex Roxin</a>, ' <a href="https://bernstein-network.de/bernstein-conference/past-future-bernstein-conferences/bernstein-conference-2024/" target="_blank" class="text-blue-600 hover:underline">Bernstein Conference 2024</a>, Frankfurt.
@@ -114,8 +139,7 @@ sections:
         </div>
 
         <!-- ===== 2023 ===== -->
-        <div id="year-2023" class="year-block hidden">
-          <div class="text-lg font-semibold text-gray-800 mb-2">2023</div>
+        <div class="year-content content2023">
           <ul class="list-disc list-inside text-gray-700 space-y-2">
             <li>
               Oct 19 - 20 · Contributed talk at <a href="https://theneurotech.eu/join-donders-discussions-2023-supported-neurotecheu" target="_blank" class="text-blue-600 hover:underline">Donders Discussions</a>, Nijmegen
@@ -129,31 +153,6 @@ sections:
           </ul>
         </div>
 
-        <script type="text/javascript">
-          document.addEventListener("DOMContentLoaded", () => {
-            const buttons = document.querySelectorAll('.year-btn');
-            const blocks = document.querySelectorAll('.year-block');
-
-            buttons.forEach(btn => {
-              btn.addEventListener('click', () => {
-                const year = btn.dataset.year;
-
-                // update button style
-                buttons.forEach(b => {
-                  b.classList.remove('bg-blue-600','text-white');
-                  b.classList.add('bg-gray-200','text-gray-700');
-                });
-                btn.classList.add('bg-blue-600','text-white');
-                btn.classList.remove('bg-gray-200','text-gray-700');
-
-                // update visible block
-                blocks.forEach(block => {
-                  block.classList.toggle('hidden', block.id !== `year-${year}`);
-                });
-              });
-            });
-          });
-        </script>
     design:
       columns: '1'
   - block: experience
