@@ -98,21 +98,36 @@ sections:
         <div id="year-2024" class="year-block hidden">
           <div class="text-lg font-semibold text-gray-800 mb-2">2024</div>
           <ul class="list-disc list-inside text-gray-700 space-y-2">
-            <li>Sep 29 – Oct 2 · Poster …</li>
-            <li>June 23 – July 14 · EBRAINS …</li>
-            <li>…</li>
-          </ul>
+            <li>
+              Sep 29 - Oct 2 · Poster 'Computational mechanisms of representational drift and odor perception in rodent olfactory systems', with <a href="https://sites.google.com/site/alexanderroxin/home" target="_blank" class="text-blue-600 hover:underline">Alex Roxin</a>, ' <a href="https://bernstein-network.de/bernstein-conference/past-future-bernstein-conferences/bernstein-conference-2024/" target="_blank" class="text-blue-600 hover:underline">Bernstein Conference 2024</a>, Frankfurt.
+            </li>
+            <li>
+              June 23 - July 14 · Participant at <a href="https://www.ebrains.eu/news-and-events/ebrains-brain-simulation-workshop-2024" target="_blank" class="text-blue-600 hover:underline">EBRAINS Brain Simulation Workshop 2024</a>, Bilbao.
+            </li>
+            <li>
+              June 3 - July 7 · Participant at <a href="https://www.csh-asia.org/?content/2382" target="_blank" class="text-blue-600 hover:underline">Computational and Cognitive Neuroscience (CCN) summer school 2025</a>, Suzhou.
+            </li>
+            <li>
+              May 30 - 31 · Poster 'Computational mechanisms of representational drift and odor perception in rodent olfactory systems', with <a href="https://sites.google.com/site/alexanderroxin/home" target="_blank" class="text-blue-600 hover:underline">Alex Roxin</a>, <a href="https://www.crm.cat/barccsyn-2024/" target="_blank" class="text-blue-600 hover:underline">Barccsyn 2024</a>, Spain.
+            </li>
         </div>
 
         <!-- ===== 2023 ===== -->
         <div id="year-2023" class="year-block hidden">
           <div class="text-lg font-semibold text-gray-800 mb-2">2023</div>
           <ul class="list-disc list-inside text-gray-700 space-y-2">
-            <li>Oct 19 – 20 · Contributed talk…</li>
-            <li>Sep 1 · Career Update …</li>
-            <li>…</li>
+            <li>
+              Oct 19 - 20 · Contributed talk at <a href="https://theneurotech.eu/join-donders-discussions-2023-supported-neurotecheu" target="_blank" class="text-blue-600 hover:underline">Donders Discussions</a>, Nijmegen
+            </li>
+            <li>
+              Sep 1 · <strong>Career Update!</strong> I officially started my master's studies at the University of Amsterdam.
+            </li>
+            <li>
+              Jun 30 · <strong>Career Update!</strong> I officially graduated with my Bachelor's degree in Mathematics from Shanghai Jiao Tong University, <a href="https://zhiyuan.sjtu.edu.cn/html/zhiyuan/" target="_blank" class="text-blue-600 hover:underline">Zhiyuan Honors Undergraduate Program</a>. I wanted to thank my dual supervisors, <a href="http://ins.sjtu.edu.cn/people/zdz" target="_blank" class="text-blue-600 hover:underline">Douglas Zhou</a> and <a href="https://ins.sjtu.edu.cn/people/songtingli/" target="_blank" class="text-blue-600 hover:underline">Songting Li</a>, for introducing me into the amazing computational neuroscience.
+            </li>
           </ul>
         </div>
+
 
         <script type="text/javascript">
           document.addEventListener("DOMContentLoaded", () => {
