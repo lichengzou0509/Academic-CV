@@ -57,100 +57,84 @@ sections:
       subtitle: 'Publications & Talks & Conferences'
       text: |-
         <style>
-          .year-tab input { display:none; }
-          .year-tab label {
-            padding: 0.5rem 1rem;
-            cursor: pointer;
-            border-radius: 0.5rem;
-            background-color: #E5E7EB; /* gray-200 */
-            color: #374151; /* gray-700 */
-          }
-          .year-tab input:checked + label {
-            background-color: #2563EB; /* blue-600 */
-            color: white;
-          }
-          .year-content { display: none; margin-top: 1rem; }
-          #tab2025:checked ~ .content2025,
-          #tab2024:checked ~ .content2024,
-          #tab2023:checked ~ .content2023 {
-            display: block;
-          }
+        /* 隐藏 radio */
+        input[name="years"] { display:none; }
+
+        /* label 样式 */
+        .year-tab label {
+          padding: 0.5rem 1rem;
+          cursor: pointer;
+          border-radius: 0.5rem;
+          background-color: #E5E7EB; /* gray-200 */
+          color: #374151; /* gray-700 */
+          transition: all 0.2s;
+        }
+
+        /* 被选中的 label */
+        #tab2025:checked ~ .year-tab label[for="tab2025"],
+        #tab2024:checked ~ .year-tab label[for="tab2024"],
+        #tab2023:checked ~ .year-tab label[for="tab2023"] {
+          background-color: #2563EB; /* blue-600 */
+          color: white;
+        }
+
+        /* 内容隐藏 */
+        .year-content { display: none; margin-top: 1rem; }
+
+        /* 根据选择显示内容 */
+        #tab2025:checked ~ .content2025,
+        #tab2024:checked ~ .content2024,
+        #tab2023:checked ~ .content2023 {
+          display: block;
+        }
         </style>
 
-        <div class="year-tab flex space-x-3 mb-6">
+        <div class="news-tabs">
+          <!-- Radio -->
           <input type="radio" id="tab2025" name="years" checked>
-          <label for="tab2025">2025</label>
-
           <input type="radio" id="tab2024" name="years">
-          <label for="tab2024">2024</label>
-
           <input type="radio" id="tab2023" name="years">
-          <label for="tab2023">2023</label>
-        </div>
 
-        <!-- ===== 2025 ===== -->
-        <div class="year-content content2025">
-          <ul class="list-disc list-inside text-gray-700 space-y-2">
-            <li>
-              Dec 9 · 5 mins Blitz talk and Poster 'Large-Scale Long-term Circuit Optimization Predicts Focal Areas High Speed Tuning Drift in V1', with <a href="https://www.uni-goettingen.de/en/617266.html" target="_blank" class="text-blue-600 hover:underline">Fred Wolf</a>, <a href="https://events.gwdg.de/event/1257/" target="_blank" class="text-blue-600 hover:underline">The 5th Göttingen Neural Networking Day</a>, Göttingen, Germany.
-            </li>
-            <li>
-              Sep 27 · Invited talk at <a href="https://pattern.swarma.org/study_group/69" target="_blank" class="text-blue-600 hover:underline">集智俱乐部计算神经科学读书会第三季</a>.
-            </li>
-            <li>
-              Sep 17 - 19 · Participant at <a href="https://www.uni-goettingen.de/de/698439.html" target="_blank" class="text-blue-600 hover:underline">Annual retreat: SPP 2205 "Evolutionary Optimization of Neuronal Processing"</a>, Zeitz, Germany.
-            </li>
-            <li>
-              Sep 1 · <strong>Career Update!</strong> I officially started as a doctoral researcher at <a href="https://uni-goettingen.de/en/684822.html" target="_blank" class="text-blue-600 hover:underline">Wolf Group, CIDBN</a>. The preliminary thesis title is 'Dynamic Transformations in Cortical Circuits'.
-            </li>
-            <li>
-              Aug 16 - 23 · Participant at <a href="https://www.cneuro.net/cneuro2025" target="_blank" class="text-blue-600 hover:underline">CNeuro 2025</a>, Institute of Neuroscience, Shanghai.
-            </li>
-            <li>
-              July 30 · <strong>Publication Alert!</strong> Paper <a href="https://www.nature.com/articles/s41598-025-11102-x" target="_blank" class="text-blue-600 hover:underline">'Representational drift as the consequence of ongoing memory storage'</a>, with <a href="https://sites.google.com/site/alexanderroxin/home" target="_blank" class="text-blue-600 hover:underline">Alex Roxin</a>, has been published at <em>Nature Scientific Reports</em>.
-            </li>
-            <li>
-              July 4 · Opening talk at <a href="https://peppered-rudbeckia-37d.notion.site/Xiao-Lab-AI-NS-Amath-JC_summer-2025-215949af911a80f39ea3ee03630d2704" target="_blank" class="text-blue-600 hover:underline">AI-NS-Amath Journal Club</a>, NYU Shanghai.
-            </li>
-            <li>
-              June 3 · <strong>Career Update!</strong> I officially graduated from the master's program <a href="https://www.uva.nl/shared-content/programmas/en/masters/biomedical-sciences-neurobiology/study-programme/cognitive-neurobiology-and-clinical-neurophysiology/cognitive-neurobiology-clinical-neurophysiology.html" target="_blank" class="text-blue-600 hover:underline">Cognitive Neurobiology & Clinical Neurophysiology</a>. A summary of my master's can be found <a href="https://www.linkedin.com/feed/update/urn:li:activity:7335638258304888834/" target="_blank" class="text-blue-600 hover:underline">here</a>.
-            </li>
-            <li>
-              April 30 · <strong>Publication Alert!</strong> Paper <a href="https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2025.1568143/full" target="_blank" class="text-blue-600 hover:underline">'Synaptic plasticity facilitates oscillations in a V1 cortical column model with multiple interneuron types'</a>, with <a href="https://sils.uva.nl/profile/m/e/j.f.mejias/j.f.mejias.html" target="_blank" class="text-blue-600 hover:underline">Jorge Mejias</a>, has been published at <em>Frontiers in Computational Neuroscience</em>.
-            </li>
-          </ul>
-        </div>
+          <!-- 年份按钮 -->
+          <div class="year-tab flex space-x-3 mb-6">
+            <label for="tab2025">2025</label>
+            <label for="tab2024">2024</label>
+            <label for="tab2023">2023</label>
+          </div>
 
-        <!-- ===== 2024 ===== -->
-        <div class="year-content content2024">
-          <ul class="list-disc list-inside text-gray-700 space-y-2">
-            <li>
-              Sep 29 - Oct 2 · Poster 'Computational mechanisms of representational drift and odor perception in rodent olfactory systems', with <a href="https://sites.google.com/site/alexanderroxin/home" target="_blank" class="text-blue-600 hover:underline">Alex Roxin</a>, ' <a href="https://bernstein-network.de/bernstein-conference/past-future-bernstein-conferences/bernstein-conference-2024/" target="_blank" class="text-blue-600 hover:underline">Bernstein Conference 2024</a>, Frankfurt.
-            </li>
-            <li>
-              June 23 - July 14 · Participant at <a href="https://www.ebrains.eu/news-and-events/ebrains-brain-simulation-workshop-2024" target="_blank" class="text-blue-600 hover:underline">EBRAINS Brain Simulation Workshop 2024</a>, Bilbao.
-            </li>
-            <li>
-              June 3 - July 7 · Participant at <a href="https://www.csh-asia.org/?content/2382" target="_blank" class="text-blue-600 hover:underline">Computational and Cognitive Neuroscience (CCN) summer school 2025</a>, Suzhou.
-            </li>
-            <li>
-              May 30 - 31 · Poster 'Computational mechanisms of representational drift and odor perception in rodent olfactory systems', with <a href="https://sites.google.com/site/alexanderroxin/home" target="_blank" class="text-blue-600 hover:underline">Alex Roxin</a>, <a href="https://www.crm.cat/barccsyn-2024/" target="_blank" class="text-blue-600 hover:underline">Barccsyn 2024</a>, Spain.
-            </li>
-        </div>
+          <!-- ===== 2025 ===== -->
+          <div class="year-content content2025">
+            <ul class="list-disc list-inside text-gray-700 space-y-2">
+              <li>Dec 9 · 5 mins Blitz talk and Poster ...</li>
+              <li>Sep 27 · Invited talk at ...</li>
+              <li>Sep 17 - 19 · Participant at ...</li>
+              <li>Sep 1 · <strong>Career Update!</strong> Started as doctoral researcher ...</li>
+              <li>Aug 16 - 23 · Participant at CNeuro 2025 ...</li>
+              <li>July 30 · <strong>Publication Alert!</strong> Paper 'Representational drift ...'</li>
+              <li>July 4 · Opening talk at AI-NS-Amath Journal Club ...</li>
+              <li>June 3 · <strong>Career Update!</strong> Graduated from master's program ...</li>
+              <li>April 30 · <strong>Publication Alert!</strong> Paper 'Synaptic plasticity ...'</li>
+            </ul>
+          </div>
 
-        <!-- ===== 2023 ===== -->
-        <div class="year-content content2023">
-          <ul class="list-disc list-inside text-gray-700 space-y-2">
-            <li>
-              Oct 19 - 20 · Contributed talk at <a href="https://theneurotech.eu/join-donders-discussions-2023-supported-neurotecheu" target="_blank" class="text-blue-600 hover:underline">Donders Discussions</a>, Nijmegen
-            </li>
-            <li>
-              Sep 1 · <strong>Career Update!</strong> I officially started my master's studies at the University of Amsterdam.
-            </li>
-            <li>
-              Jun 30 · <strong>Career Update!</strong> I officially graduated with my Bachelor's degree in Mathematics from Shanghai Jiao Tong University, <a href="https://zhiyuan.sjtu.edu.cn/html/zhiyuan/" target="_blank" class="text-blue-600 hover:underline">Zhiyuan Honors Undergraduate Program</a>. I wanted to thank my dual supervisors, <a href="http://ins.sjtu.edu.cn/people/zdz" target="_blank" class="text-blue-600 hover:underline">Douglas Zhou</a> and <a href="https://ins.sjtu.edu.cn/people/songtingli/" target="_blank" class="text-blue-600 hover:underline">Songting Li</a>, for introducing me into the amazing computational neuroscience.
-            </li>
-          </ul>
+          <!-- ===== 2024 ===== -->
+          <div class="year-content content2024">
+            <ul class="list-disc list-inside text-gray-700 space-y-2">
+              <li>Sep 29 - Oct 2 · Poster ...</li>
+              <li>June 23 - July 14 · Participant at EBRAINS Brain Simulation Workshop 2024 ...</li>
+              <li>June 3 - July 7 · Participant at CCN summer school 2025 ...</li>
+              <li>May 30 - 31 · Poster ...</li>
+            </ul>
+          </div>
+
+          <!-- ===== 2023 ===== -->
+          <div class="year-content content2023">
+            <ul class="list-disc list-inside text-gray-700 space-y-2">
+              <li>Oct 19 - 20 · Contributed talk at Donders Discussions ...</li>
+              <li>Sep 1 · <strong>Career Update!</strong> Started master's studies at UvA ...</li>
+              <li>Jun 30 · <strong>Career Update!</strong> Graduated with Bachelor's from SJTU ...</li>
+            </ul>
+          </div>
         </div>
 
     design:
