@@ -2,7 +2,7 @@
 title: "Synaptic plasticity facilitates oscillations in a V1 cortical column model with multiple
 interneuron types"
 authors:
-- Giulia Morenia
+- Giulia Moreni
 - Licheng Zou
 - Cyriel Pennartz
 - Jorge Mejias
