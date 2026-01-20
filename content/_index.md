@@ -371,6 +371,11 @@ sections:
           Lecturer · <a href="https://pattern.swarma.org/study_group/69" target="_blank">集智俱乐部计算神经科学读书会第三季</a>
         </div>
 
+        <div class="font-bold">2025</div>
+        <div>
+          Tutor · <a href="https://studip.uni-goettingen.de/dispatch.php/course/details/?sem_id=662fe6b491aab9377ec02fa19256fa8c" target="_blank">Theoretical and Computational Neuroscience: Collective dynamics of biological neural Networks I, WiSe 2025/26</a>
+        </div>
+
 
         </div>
     design:
