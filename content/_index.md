@@ -363,15 +363,13 @@ sections:
 
         <div class="font-bold">2025</div>
         <div>
-          Tutor · <a href="https://www.studip.uni-goettingen.de/extern.php?module=Lecturedetails&range_id=f01cb6ad89f913e65369bf4078cb36f3&seminar_id=2d15940331a6390b6659c380ee0375dd" target="_blank">Block seminar: Introduction to Theoretical Neuroscience</a>
+          Tutor · <a href="https://www.studip.uni-goettingen.de/extern.php?module=Lecturedetails&range_id=f01cb6ad89f913e65369bf4078cb36f3&seminar_id=2d15940331a6390b6659c380ee0375dd" target="_blank">Block seminar: Introduction to Theoretical Neuroscience, SoSe 2025</a>
         </div>
-
-        <div class="font-bold">2025</div>
         <div>
           Lecturer · <a href="https://pattern.swarma.org/study_group/69" target="_blank">集智俱乐部计算神经科学读书会第三季</a>
         </div>
 
-        <div class="font-bold">2025</div>
+        <div class="font-bold">2026</div>
         <div>
           Tutor · <a href="https://studip.uni-goettingen.de/dispatch.php/course/details/?sem_id=662fe6b491aab9377ec02fa19256fa8c" target="_blank">Theoretical and Computational Neuroscience: Collective dynamics of biological neural Networks I, WiSe 2025/26</a>
         </div>
