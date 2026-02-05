@@ -429,3 +429,5 @@ sections:
     design:
       columns: '2'
 ---
+
+_Last updated: February 5, 2026_
