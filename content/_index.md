@@ -71,6 +71,7 @@ sections:
         }
 
         /* 被选中的 label */
+        #tab2026:checked ~ .year-tab label[for="tab2026"],
         #tab2025:checked ~ .year-tab label[for="tab2025"],
         #tab2024:checked ~ .year-tab label[for="tab2024"],
         #tab2023:checked ~ .year-tab label[for="tab2023"] {
@@ -82,6 +83,7 @@ sections:
         .year-content { display: none; margin-top: 1rem; }
 
         /* 根据选择显示内容 */
+        #tab2026:checked ~ .content2026,
         #tab2025:checked ~ .content2025,
         #tab2024:checked ~ .content2024,
         #tab2023:checked ~ .content2023 {
@@ -91,15 +93,24 @@ sections:
 
         <div class="news-tabs">
           <!-- Radio -->
+          <input type="radio" id="tab2026" name="years" checked>
           <input type="radio" id="tab2025" name="years" checked>
           <input type="radio" id="tab2024" name="years">
           <input type="radio" id="tab2023" name="years">
 
           <!-- 年份按钮 -->
           <div class="year-tab flex space-x-3 mb-6">
+            <label for="tab2026">2026</label>
             <label for="tab2025">2025</label>
             <label for="tab2024">2024</label>
             <label for="tab2023">2023</label>
+          </div>
+
+          <!-- ===== 2026 ===== -->
+          <div class="year-content content2023">
+            <ul class="list-disc list-inside text-gray-700 space-y-2">
+              <li>April 21 · Accepted by the <a href="https://www.simonsfoundation.org/event/ccn_fens2026/" target="_blank" class="text-blue-600 hover:underline">Neural Data Analysis Workshop @ FENS 2026</a>, organized by <a href="https://www.simonsfoundation.org/flatiron/" target="_blank" class="text-blue-600 hover:underline">the Flariron Institute</a>. See you in July, Barcelona!
+            </ul>
           </div>
 
           <!-- ===== 2025 ===== -->
