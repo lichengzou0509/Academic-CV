@@ -94,7 +94,7 @@ sections:
         <div class="news-tabs">
           <!-- Radio -->
           <input type="radio" id="tab2026" name="years" checked>
-          <input type="radio" id="tab2025" name="years" checked>
+          <input type="radio" id="tab2025" name="years">
           <input type="radio" id="tab2024" name="years">
           <input type="radio" id="tab2023" name="years">
 
