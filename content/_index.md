@@ -109,7 +109,7 @@ sections:
           <!-- ===== 2026 ===== -->
           <div class="year-content content2026">
             <ul class="list-disc list-inside text-gray-700 space-y-2">
-              <li>April 21 · Accepted by <a href="https://www.simonsfoundation.org/event/ccn_fens2026/" target="_blank" class="text-blue-600 hover:underline">Neural Data Analysis Workshop @ FENS 2026</a>, organized by <a href="https://www.simonsfoundation.org/flatiron/" target="_blank" class="text-blue-600 hover:underline">the Flariron Institute</a>. See you in July, Barcelona!
+              <li>April 21 · Accepted by <a href="https://www.simonsfoundation.org/event/ccn_fens2026/" target="_blank" class="text-blue-600 hover:underline">Neural Data Analysis Workshop @ FENS 2026</a>, organized by <a href="https://www.simonsfoundation.org/flatiron/" target="_blank" class="text-blue-600 hover:underline">Flariron Institute</a>. See you in July, Barcelona!
             </ul>
           </div>
 
