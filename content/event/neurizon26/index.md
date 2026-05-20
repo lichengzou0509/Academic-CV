@@ -12,7 +12,7 @@ address:
   country: Germany
   country_code: DE
 
-summary: Young scientist talk
+summary: Young scientist talk at Neurizon 2026
 abstract: 'Orientation preference maps (OPMs) are a canonical example of cortical organization and are commonly described within a two-dimensional framework, where orientation singularities appear as point-like pinwheels. However, (1) indicated that in three dimensions pinwheels rarely form straight columnar structures, challenging both the classical columnar hypothesis and existing two-dimensional descriptors. At present, a principled quantitative framework for characterizing three-dimensional OPM geometry is lacking.
 
 Here we develop a unified theoretical framework that generalizes maximum-entropy models of OPMs from two to three dimensions. In this formulation, pinwheel points naturally extend to pinwheel strings, which constitute the fundamental topological defects of three-dimensional orientation maps. Within this framework, we derive exact analytical expressions for key geometric observables, including the mean string length, the statistics of distorted string motifs, and the full distribution of orientation differences between spatial locations.
