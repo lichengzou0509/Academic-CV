@@ -5,7 +5,12 @@ event: Neurizon 2026
 event_url: https://www.neurizons.uni-goettingen.de/
 
 location: Max Planck Institute for Multidisciplinary Sciences (Faßberg-Campus)
-address: Am Faßberg 11, 37077 Göttingen, Germany
+address:
+  street: Am Faßberg 11
+  city: Göttingen
+  postcode: '37077'
+  country: Germany
+  country_code: DE
 
 summary: Young scientist talk
 abstract: 'Orientation preference maps (OPMs) are a canonical example of cortical organization and are commonly described within a two-dimensional framework, where orientation singularities appear as point-like pinwheels. However, (1) indicated that in three dimensions pinwheels rarely form straight columnar structures, challenging both the classical columnar hypothesis and existing two-dimensional descriptors. At present, a principled quantitative framework for characterizing three-dimensional OPM geometry is lacking.
