@@ -111,7 +111,7 @@ sections:
             <ul class="list-disc list-inside text-gray-700 space-y-2">
               <li>April 21 · Accepted by <a href="https://www.simonsfoundation.org/event/ccn_fens2026/" target="_blank" class="text-blue-600 hover:underline">Neural Data Analysis Workshop @ FENS 2026</a>, organized by <a href="https://www.simonsfoundation.org/flatiron/" target="_blank" class="text-blue-600 hover:underline">Flatiron Institute</a>. See you in July, Barcelona!</li>
               <li>May 07 · Accepted by <a href="https://www.compneuronrsn.org/" target="_blank" class="text-blue-600 hover:underline">Fred Kavli Summer School: Mathematical Methods in Computational Neuroscience</a>. See you in July, Eresfjord!</li>
-              <li>May 21 · 10 mins Young Scientist talk 'Highly distorted three-dimensional orientation fields in primary visual cortex ', with <a href="https://www.uni-goettingen.de/en/617266.html" target="_blank" class="text-blue-600 hover:underline">Fred Wolf</a>, <a href="https://www.neurizons.uni-goettingen.de/" target="_blank" class="text-blue-600 hover:underline">Neurizon 2026</a>, Göttingen, Germany.</li>
+              <li>May 21 · 10 mins Young Scientist talk 'Highly distorted three-dimensional orientation fields in primary visual cortex ', with <a href="https://hillierlab.github.io/" target="_blank" class="text-blue-600 hover:underline">Daniel Hillier</a> and <a href="https://www.uni-goettingen.de/en/617266.html" target="_blank" class="text-blue-600 hover:underline">Fred Wolf</a>, <a href="https://www.neurizons.uni-goettingen.de/" target="_blank" class="text-blue-600 hover:underline">Neurizon 2026</a>, Göttingen, Germany.</li>
             </ul>
           </div>
 
